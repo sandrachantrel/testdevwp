@@ -1,0 +1,3772 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traductions v1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2022-10-20 18:03+0200\n"
+"PO-Revision-Date: 2022-10-20 18:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: Visions Nouvelles <webmaster@visionsnouvelles.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: _s\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html_x;esc_html__;_x;esc_attr_e;"
+"esc_html_e;esc_html_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: inc/framework\n"
+"X-Poedit-SearchPathExcluded-4: languages\n"
+"X-Poedit-SearchPathExcluded-5: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-6: package.json\n"
+"X-Poedit-SearchPathExcluded-7: phpcs.xml.dist\n"
+"X-Poedit-SearchPathExcluded-8: README.md\n"
+"X-Poedit-SearchPathExcluded-9: screenshot.png\n"
+"X-Poedit-SearchPathExcluded-10: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-11: dist\n"
+"X-Poedit-SearchPathExcluded-12: img\n"
+
+#: functions.php:30
+msgid "Please fill in the required fields ! "
+msgstr "Veuillez remplir les champs requis ! "
+
+#: inc/email-template/template-mail.php:349
+msgid "Nom"
+msgstr "Nom"
+
+#: inc/email-template/template-mail.php:356
+msgid "Prénom"
+msgstr ""
+
+#: inc/email-template/template-mail.php:365
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/email-template/template-mail.php:372
+msgid "Sujet"
+msgstr ""
+
+#: inc/email-template/template-mail.php:379
+msgid "Message"
+msgstr "Message"
+
+#: inc/template-function.php:93
+msgid "Bad file type."
+msgstr "Mauvais type de fichier."
+
+#: inc/template-option.php:19
+msgid "Testdevwp options"
+msgstr "Paramètres du thème Testdevwp"
+
+#: inc/template-option.php:21
+#, fuzzy
+#| msgid "Teams Options"
+msgid "Testdevwp Options"
+msgstr "Paramètres des équipes"
+
+#. translators: %s: Author Link
+#: inc/template-option.php:24
+#, php-format
+msgid "by %s"
+msgstr "par %s"
+
+#. translators: %s: Author Email
+#: inc/template-option.php:26
+#, php-format
+msgid "E-mail us: %s"
+msgstr "Envoyez-nous un e-mail: %s"
+
+#: inc/template-option.php:36
+msgid "Contact Form Options"
+msgstr "Paramètres du formulaire de contact"
+
+#: inc/template-option.php:42
+msgid "Default Contact Name"
+msgstr "Contact par défaut : nom"
+
+#: inc/template-option.php:47
+msgid "Default Contact Email"
+msgstr "Contact par défaut : email"
+
+#: inc/template-option.php:52
+msgid "Default Contact Email CC"
+msgstr "Contact par défaut : mise en copie (CC)"
+
+#: inc/template-option.php:57
+msgid "Default Contact Email BCC"
+msgstr "Contact par défaut : mise en copie cachée (BCC)"
+
+#: inc/template-option.php:62
+msgid "\"Thank You\" Page"
+msgstr "Page « Merci »"
+
+#: inc/template-option.php:72
+msgid "Body Code"
+msgstr "Code après l’ouverture de la balise <body>"
+
+#: inc/template-option.php:73
+msgid "After &lt;body&gt; opening tag."
+msgstr "Après l’ouverture de la balise &lt;body&gt;."
+
+#: inc/traitement-ajax.php:36
+msgid "Please fill required fields!"
+msgstr "Veuillez remplir les champs requis !"
+
+#: inc/traitement-ajax.php:49
+msgid "Contact from your website"
+msgstr "Contact depuis votre site internet"
+
+#: inc/traitement-ajax.php:57
+msgid "Error! Message was not sent! Please contact us by phone."
+msgstr ""
+"Erreur ! Le message n'a pas été envoyé ! Veuillez nous contacter par "
+"téléphone."
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Got lost in the ice rink?"
+#~ msgstr "Vous vous êtes perdu dans la patinoire ?"
+
+#~ msgid "Back to home"
+#~ msgstr "Retourner à l’accueil"
+
+#~ msgid "Or search some thing here :"
+#~ msgstr "Ou rechercher quelques chose ici :"
+
+#, php-format
+#~ msgid "One thought on &ldquo;%1$s&rdquo;"
+#~ msgstr "Une réflexion sur &ldquo;%1$s&rdquo;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Les commentaires sont fermés."
+
+#~ msgid "Header Menu"
+#~ msgstr "Menu de l’entête"
+
+#~ msgid "Footer Menu"
+#~ msgstr "Menu du pied de page"
+
+#~ msgid "Vipers Orange"
+#~ msgstr "Vipers Orange"
+
+#~ msgid "Vipers Blue"
+#~ msgstr "Vipers Bleu"
+
+#~ msgid "Please wait while form is sending..."
+#~ msgstr "Veuillez patienter pendant l’envoi du formulaire…"
+
+#~ msgid "Skip to content"
+#~ msgstr "Passer au contenu"
+
+#~ msgid "Browse:"
+#~ msgstr "Parcourir :"
+
+#~ msgid "404 Not Found"
+#~ msgstr "404 Non trouvé"
+
+#~ msgid "Archives"
+#~ msgstr "Archives"
+
+#, php-format
+#~ msgid "Search results for &#8220;%s&#8221;"
+#~ msgstr "Résultats de la recherche pour :  &#8220;%s&#8221;"
+
+#, php-format
+#~ msgid "Page %s"
+#~ msgstr "Page %s"
+
+#, php-format
+#~ msgid "Minute %s"
+#~ msgstr "Minute %s"
+
+#, php-format
+#~ msgid "Week %s"
+#~ msgstr "Semaine %s"
+
+#~ msgid "Home"
+#~ msgstr "Accueil"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Practical informations"
+#~ msgstr "Informations pratiques"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installer les plugins requis"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Installer les plugins"
+
+#, php-format
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installation en cours du plugin %s"
+
+#, php-format
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "Mise à jour en cours du plugin %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Quelque chose ne va pas avec l’API plugin."
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Retourner à l’installateur de plugin requis"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Retourner au tableau de bord"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin activé avec succès."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgstr "Le plugin suivant a été activé avec succès :"
+
+#, php-format
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "Pas d’action prise. Le plugin %1$s a déjà été activé."
+
+#, php-format
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr ""
+#~ "Le plugin n’est pas activé. Une plus haute version de %s est nécéssaire "
+#~ "pour ce thème. Veuillez mettre a jour le plugin."
+
+#, php-format
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr ""
+#~ "Tous les plugin sont installés et ont été activés avec succès.  %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Cacher cette notification"
+
+#~ msgid ""
+#~ "There are one or more required or recommended plugins to install, update "
+#~ "or activate."
+#~ msgstr ""
+#~ "Il y a un ou plusieurs plugins recommandé ou requis a installer, activer "
+#~ "ou mettez a jour."
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr ""
+#~ "Veuillez contacter un administrateur du site pour obtenir de l’aide."
+
+#~ msgid "Update Required"
+#~ msgstr "Mise à jour requise"
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "Définir le parent_slug variable de configuration a la place."
+
+#~ msgid ""
+#~ "The remote plugin package does not contain a folder with the desired slug "
+#~ "and renaming did not work."
+#~ msgstr ""
+#~ "Le package de plug-in distant ne contient pas un dossier avec le plug "
+#~ "désiré et le renommer n’a pas fonctionné."
+
+#~ msgid ""
+#~ "Please contact the plugin provider and ask them to package their plugin "
+#~ "according to the WordPress guidelines."
+#~ msgstr ""
+#~ "Veuillez contacter le fournisseur du plugin et demandez leur de packager "
+#~ "leur plugin en accord avec les lignes directrices de WordPress."
+
+#~ msgid ""
+#~ "The remote plugin package consists of more than one file, but the files "
+#~ "are not packaged in a folder."
+#~ msgstr ""
+#~ "Le package de plug-in distant se compose de plus d ‘un fichier, mais ces "
+#~ "fichiers ne sont pas contenus dans un dossier."
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "et"
+
+#, php-format
+#~ msgid "TGMPA v%s"
+#~ msgstr "TGMPA v%s"
+
+#~ msgid "Required"
+#~ msgstr "Requis"
+
+#~ msgid "Recommended"
+#~ msgstr "Recommandé"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "Repo WordPress"
+
+#~ msgid "External Source"
+#~ msgstr "Source externe"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pre-Packaged"
+
+#~ msgid "Not Installed"
+#~ msgstr "Non installé"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installé mais non activé"
+
+#~ msgid "Active"
+#~ msgstr "Activé"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "La mise à jour requise n’est pas disponible"
+
+#~ msgid "Requires Update"
+#~ msgstr "Mise à jours requises"
+
+#~ msgid "Update recommended"
+#~ msgstr "Mise à jour recommandée"
+
+#, php-format
+#~ msgid "%1$s, %2$s"
+#~ msgstr "%1$s - %2$s"
+
+#, php-format
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr "Installer <span class=\"count\">(%s)</span>"
+
+#, php-format
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr "Mise à jour disponible <span class=\"count\">(%s)</span>"
+
+#, php-format
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr "Activer <span class=\"count\">(%s)</span>"
+
+#~ msgid "unknown"
+#~ msgstr "inconnu"
+
+#~ msgid "Installed version:"
+#~ msgstr "Version installée :"
+
+#~ msgid "Minimum required version:"
+#~ msgstr "Version minimum requise :"
+
+#~ msgid "Available version:"
+#~ msgstr "Versions disponibles :"
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr "Aucun plugin à installer, mettre à jour ou activer."
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Source"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Status"
+#~ msgstr "Statut"
+
+#, php-format
+#~ msgid "Install %2$s"
+#~ msgstr "Installer %2$s"
+
+#, php-format
+#~ msgid "Update %2$s"
+#~ msgstr "Mettre à jour %2$s"
+
+#, php-format
+#~ msgid "Activate %2$s"
+#~ msgstr "Activer %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "Message de mise à jour de l’auteur du plugin :"
+
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Activate"
+#~ msgstr "Activer"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr ""
+#~ "Aucun plugin sélectionner pour être installer. Aucune action prise en "
+#~ "compte."
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr ""
+#~ "Aucun plugin sélectionner pour être mis à jour. Aucune action prise en "
+#~ "compte."
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "Aucun plugin n’est disponible pour être installé en ce moment."
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr "Aucun plugin n’est disponible pour être mis à jour en ce moment."
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr ""
+#~ "Aucun plugin sélectionner pour être activé. Aucune action prise en compte."
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "Aucun plugin n’est disponible pour être activé en ce moment."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "L’activation du plugin a échoué."
+
+#, php-format
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Mise à jour en cours du plugin %1$s (%2$d/%3$d)"
+
+#, php-format
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Une erreur est survenue pendant l’installation de %1$s: <strong>%2$s</"
+#~ "strong>."
+
+#, php-format
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "L’installation de %1$s a échoué."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Le processus d’installation et d’activation commence. Ce processus peut "
+#~ "prendre quelques instants sur certains hébergeurs, soyez patient s’il "
+#~ "vous plait."
+
+#, php-format
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installé et activé avec succès."
+
+#~ msgid "Show Details"
+#~ msgstr "Voir les détails"
+
+#~ msgid "Hide Details"
+#~ msgstr "Masquer les détails"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Toutes les installations et activations ont été complétées."
+
+#, php-format
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation et activation de %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Le processus d’installation commence. Ce processus peut prendre quelques "
+#~ "instants sur certains hébergeurs, soyez patient s’il vous plait."
+
+#, php-format
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s installé avec succès."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Toutes les installations ont été éffectuées."
+
+#, php-format
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation en cours du plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Vipers Permalinks"
+#~ msgstr "Vipers Liens"
+
+#~ msgid "Players"
+#~ msgstr "Joueurs"
+
+#~ msgid "Teams"
+#~ msgstr "Équipes"
+
+#~ msgid "Camps"
+#~ msgstr "Stages"
+
+#~ msgid "Practical Info"
+#~ msgstr "Informations pratiques"
+
+#~ msgid "Subject"
+#~ msgstr "Sujet"
+
+#~ msgid "Selected camp"
+#~ msgstr "Stage sélectionné"
+
+#~ msgid "First name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last name"
+#~ msgstr "Nom de famille"
+
+#~ msgid "Enterprise name"
+#~ msgstr "Nom de l’entreprise"
+
+#~ msgid "Sport Card"
+#~ msgstr "Carte sport"
+
+#~ msgid "Birth Date"
+#~ msgstr "Date de naissance"
+
+#~ msgid "Tel"
+#~ msgstr "Tel"
+
+#~ msgid "Phone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Neighborhood"
+#~ msgstr "Quartier"
+
+#~ msgid "Partnership_type"
+#~ msgstr "Type de partenariat"
+
+#~ msgid "Interest"
+#~ msgstr "Intérêt"
+
+#~ msgid "Budget"
+#~ msgstr "Budget"
+
+#~ msgid "Accordion"
+#~ msgstr "Accordéon"
+
+#~ msgid "Accordion Block"
+#~ msgstr "Bloc accordéon"
+
+#~ msgid "Create accordions with title and content."
+#~ msgstr "Créer des accordéons avec titre et contenu."
+
+#~ msgid "Accordions"
+#~ msgstr "Accordéons"
+
+#~ msgid "+ Add Accordion"
+#~ msgstr "+ Ajouter un accordéon"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Is Orange"
+#~ msgstr "Est orange"
+
+#~ msgid "Content"
+#~ msgstr "Contenu"
+
+#~ msgid "Block Fields"
+#~ msgstr "Champs du bloc"
+
+#~ msgid "Full Width Inside Container"
+#~ msgstr "Largeur maximum dans le conteneur"
+
+#~ msgid "Attributes"
+#~ msgstr "Attributs"
+
+#~ msgid "Unique ID"
+#~ msgstr "ID unique"
+
+#~ msgid "Extra Classes"
+#~ msgstr "Classes supplémentaires"
+
+#~ msgid "Margins"
+#~ msgstr "Marges"
+
+#~ msgid "Margin Top"
+#~ msgstr "Marge supérieure"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "Marge inférieure"
+
+#~ msgid "Banner 1100x100"
+#~ msgstr "Bannière 1100x100"
+
+#~ msgid "Display ad with 1100x100 size."
+#~ msgstr "Affiche une publicité au format 1100x100 pixels."
+
+#~ msgid "Banners"
+#~ msgstr "Bannières"
+
+#~ msgid "+ Add Banner"
+#~ msgstr "+ Ajouter une bannière"
+
+#~ msgid "Start Date"
+#~ msgstr "Date de début"
+
+#~ msgid "End Date"
+#~ msgstr "Date de fin"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Mobile Image"
+#~ msgstr "Image mobile"
+
+#~ msgid "The title attribute."
+#~ msgstr "L’attribut « titre »."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Banner 1100x200"
+#~ msgstr "Bannière 1100x200"
+
+#~ msgid "Ads"
+#~ msgstr "Publicités"
+
+#~ msgid "Display ad with 1100x200 size."
+#~ msgstr "Affiche une publicité au format 1100x200 pixels."
+
+#~ msgid "Banner Double"
+#~ msgstr "Double bannière"
+
+#~ msgid "Display double ads."
+#~ msgstr "Affiche une double bannière."
+
+#~ msgid "Left Column"
+#~ msgstr "Colonne de gauche"
+
+#~ msgid "Right Column"
+#~ msgstr "Colonne de droite"
+
+#~ msgid "Blog Block"
+#~ msgstr "Bloc blog"
+
+#~ msgid "Display blog posts."
+#~ msgstr "Afficher les articles du blog."
+
+#~ msgid "Title Tag"
+#~ msgstr "Balise de titre"
+
+#~ msgid "Posts"
+#~ msgstr "Articles"
+
+#~ msgid "More Link"
+#~ msgstr "Lien"
+
+#~ msgid "More Image"
+#~ msgstr "Image"
+
+#~ msgid "Top Text"
+#~ msgstr "Texte du haut"
+
+#~ msgid "Bottom Text"
+#~ msgstr "Texte du bas"
+
+#~ msgid "New Tab"
+#~ msgstr "Nouvel onglet"
+
+#~ msgid "Button"
+#~ msgstr "Bouton"
+
+#~ msgid "Button Block"
+#~ msgstr "Bloc bouton"
+
+#~ msgid "Create theme styled buttons."
+#~ msgstr "Créer des boutons stylisés comme le thème."
+
+#~ msgid "Button Fields"
+#~ msgstr "Champs du bouton"
+
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+#~ msgid "Button Text"
+#~ msgstr "Bouton : texte"
+
+#~ msgid "Icon"
+#~ msgstr "Icône"
+
+#~ msgid "Icon Position"
+#~ msgstr "Position de l’icône"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Orange"
+#~ msgstr "Orange"
+
+#~ msgid "Blue"
+#~ msgstr "Bleu"
+
+#~ msgid "White"
+#~ msgstr "Blanc"
+
+#~ msgid "Orange Outline"
+#~ msgstr "Bordure et texte orange"
+
+#~ msgid "Blue Outline"
+#~ msgstr "Bordure et texte bleu"
+
+#~ msgid "White Outline"
+#~ msgstr "Bordure et texte blanc"
+
+#~ msgid "Align"
+#~ msgstr "Alignement"
+
+#~ msgid "Center"
+#~ msgstr "Centre"
+
+#~ msgid "Call to Action"
+#~ msgstr "Appel à l’action"
+
+#~ msgid "Call to Action Block"
+#~ msgstr "Bloc appel à l’action"
+
+#~ msgid "Display image and content with url."
+#~ msgstr "Affiche une image, un contenu et un lien."
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "Camps Block"
+#~ msgstr "Bloc stages"
+
+#~ msgid "Display camps."
+#~ msgstr "Affiche les stages."
+
+#~ msgid "Leave empty to display all."
+#~ msgstr "Laisser vide pour tous les afficher."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "First Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last Name"
+#~ msgstr "Nom de famille"
+
+#~ msgid "Send"
+#~ msgstr "Envoyer"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Contact Block"
+#~ msgstr "Bloc contact"
+
+#~ msgid "Display contact form and buttons."
+#~ msgstr "Afficher les boutons et le formulaire de contact."
+
+#~ msgid "Button 1"
+#~ msgstr "Bouton 1"
+
+#~ msgid "Button 2"
+#~ msgstr "Bouton 2"
+
+#~ msgid "Double Picture Nav"
+#~ msgstr "Navigation à double image"
+
+#~ msgid "Text Image Button"
+#~ msgstr "Texte image bouton"
+
+#~ msgid "Double Picture Navigation"
+#~ msgstr "Navigation à double image"
+
+#~ msgid "Display double pictures."
+#~ msgstr "Affichage double image."
+
+#~ msgid "Orange Filter"
+#~ msgstr "Filtre orange"
+
+#~ msgid "Bottom"
+#~ msgstr "En bas"
+
+#~ msgid "History"
+#~ msgstr "Histoire"
+
+#~ msgid "Histories Block"
+#~ msgstr "Bloc histoire"
+
+#~ msgid "Create history with images."
+#~ msgstr "Créer un histoire avec des images."
+
+#~ msgid "Histories"
+#~ msgstr "Historique"
+
+#~ msgid "Home Banner"
+#~ msgstr "Bannière page d’accueil"
+
+#~ msgid "Home Banner Block"
+#~ msgstr "Bannière page d’accueil"
+
+#~ msgid "Create homepage top screen block."
+#~ msgstr "Crée le bloc du haut de la page d’accueil."
+
+#~ msgid "Banner Fields"
+#~ msgstr "Champs de la bannière"
+
+#~ msgid "Vertical Title"
+#~ msgstr "Titre vertical"
+
+#~ msgid "Small Title"
+#~ msgstr "Petit titre"
+
+#~ msgid "Big Title 1"
+#~ msgstr "Grand titre 1"
+
+#~ msgid "Big Title 2"
+#~ msgstr "Grand titre 2"
+
+#~ msgid "Buttons"
+#~ msgstr "Boutons"
+
+#~ msgid "+ Add Button"
+#~ msgstr "+ Ajouter un bouton"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur de fond"
+
+#, php-format
+#~ msgid "Vipers Orange: %1$s, Vipers Blue: %2$s"
+#~ msgstr "Vipers Orange: %1$s, Vipers Bleu: %2$s"
+
+#~ msgid "Next Games"
+#~ msgstr "Prochains matchs"
+
+#~ msgid "Display next games history."
+#~ msgstr "Afficher l’historique des prochains matchs."
+
+#~ msgid "Home Game"
+#~ msgstr "Domicile"
+
+#~ msgid "Away Game"
+#~ msgstr "Extérieur"
+
+#~ msgid "Next and Previous Games"
+#~ msgstr "Matchs précédents et suivants"
+
+#~ msgid "Next and Previous Games Block"
+#~ msgstr "Bloc matchs précédents et suivants"
+
+#~ msgid "Display next and previous games with scores."
+#~ msgstr "Affiche les matchs précédents et suivants avec les scores."
+
+#~ msgid "Title Fields"
+#~ msgstr "Champs du titre"
+
+#~ msgid "Next Game Title"
+#~ msgstr "Titre du prochain match"
+
+#~ msgid "Previous Game Title"
+#~ msgstr "Titre des résultats précédents"
+
+#~ msgid "Ticket Button"
+#~ msgstr "Bouton billetterie"
+
+#~ msgid "All Results Button"
+#~ msgstr "Bouton vers les résultats"
+
+#~ msgid "Next games Results Button"
+#~ msgstr "Bouton vers les prochains matchs"
+
+#~ msgid "Ranking Button"
+#~ msgstr "Bouton vers le classement"
+
+#~ msgid "vs"
+#~ msgstr "vs"
+
+#, php-format
+#~ msgid "%1$s - %2$s"
+#~ msgstr "%1$s - %2$s"
+
+#~ msgid "Other infos"
+#~ msgstr "Autres infos"
+
+#~ msgid "Other infos Block"
+#~ msgstr "Bloc des autres infos"
+
+#~ msgid "Display other infos posts."
+#~ msgstr "Afficher les autres articles d’infos."
+
+#~ msgid "See more practical informations :"
+#~ msgstr "Voir plus d’informations pratique :"
+
+#~ msgid "Partners by Taxonomy"
+#~ msgstr "Partenaires par taxonomie"
+
+#~ msgid "Partners by Taxonomy Block"
+#~ msgstr "Bloc partenaires par taxonomie"
+
+#~ msgid "Display partners by taxonomy."
+#~ msgstr "Affiche les partenaires par taxonomie."
+
+#~ msgid "Partners"
+#~ msgstr "Partenaires"
+
+#~ msgid "Institutional Title"
+#~ msgstr "Titre institutionnel"
+
+#~ msgid "Institutional Partners"
+#~ msgstr "Partenaire institutionnels"
+
+#~ msgid "Block Alignment"
+#~ msgstr "Alignement du bloc"
+
+#~ msgid "Greyscale Effect"
+#~ msgstr "Effet noir et blanc"
+
+#~ msgid "Partners Block"
+#~ msgstr "Bloc partenaires"
+
+#~ msgid "Display partners."
+#~ msgstr "Affiche les partenaires."
+
+#~ msgid "Other Title"
+#~ msgstr "Autre titre"
+
+#~ msgid "Other Partners"
+#~ msgstr "Autres partenaires"
+
+#~ msgid "Players Action"
+#~ msgstr "Joueurs en action"
+
+#~ msgid "Players Block"
+#~ msgstr "Bloc joueurs"
+
+#~ msgid "Display players and actions."
+#~ msgstr "Affiche les joueurs et l’image en action."
+
+#~ msgid "See the player's profile"
+#~ msgstr "Voir le profil du joueur"
+
+#~ msgid "Display players."
+#~ msgstr "Affiche les joueurs."
+
+#~ msgid "Show Logo"
+#~ msgstr "Montrer le logo"
+
+#~ msgid "Practical info"
+#~ msgstr "Information pratique"
+
+#~ msgid "Practical info Block"
+#~ msgstr "Block des informations pratiques"
+
+#~ msgid "Display practical info posts."
+#~ msgstr "Afficher les articles informations pratiques."
+
+#~ msgid "Previous Games"
+#~ msgstr "Matchs précédents"
+
+#~ msgid "Display previous games history."
+#~ msgstr "Afficher l’historique des matchs précédents."
+
+#~ msgid "A word from the coach"
+#~ msgstr "Le mot du coach"
+
+#~ msgid "Ranking"
+#~ msgstr "Classement"
+
+#~ msgid "Ranking Block"
+#~ msgstr "Bloc classement"
+
+#~ msgid "Display teams ranking list."
+#~ msgstr "Affiche le classement."
+
+#~ msgid "Points"
+#~ msgstr "Points"
+
+#~ msgid "Match"
+#~ msgstr "Match"
+
+#~ msgid "Victoire"
+#~ msgstr "Victoire"
+
+#~ msgid "Win by overtime"
+#~ msgstr "VPRL"
+
+#~ msgid "Loss by overtime"
+#~ msgstr "DPRL"
+
+#~ msgid "Defeat"
+#~ msgstr "Défaite"
+
+#~ msgid "Shop"
+#~ msgstr "Boutique"
+
+#~ msgid "Shop Block"
+#~ msgstr "Bloc boutique"
+
+#~ msgid "Display products."
+#~ msgstr "Affiche les produits."
+
+#~ msgid "Products"
+#~ msgstr "Produits"
+
+#~ msgid "Publicity"
+#~ msgstr "Publicité"
+
+#~ msgid "+ Add Publicity"
+#~ msgstr "+ Ajouter une publicité"
+
+#~ msgid "See Montpellier Vipers shop products"
+#~ msgstr "Voir les produits de la boutique des Vipers de Montpellier"
+
+#~ msgid "See shop"
+#~ msgstr "Voir la boutique"
+
+#~ msgid "Staffs"
+#~ msgstr "Staff"
+
+#~ msgid "Staffs Block"
+#~ msgstr "Bloc staff"
+
+#~ msgid "Display staffs."
+#~ msgstr "Affiche le staff."
+
+#~ msgid "Teams List"
+#~ msgstr "Liste des équipes"
+
+#~ msgid "Teams List Block"
+#~ msgstr "Bloc liste des équipes"
+
+#~ msgid "Display teams small info."
+#~ msgstr "Afficher les brèves informations des équipes."
+
+#~ msgid "Get Teams By"
+#~ msgstr "Récupérer l’équipe par"
+
+#~ msgid "Manual"
+#~ msgstr "Manuellement"
+
+#~ msgid "By Type"
+#~ msgstr "Par type"
+
+#~ msgid "Select Teams"
+#~ msgstr "Sélectionner des équipes"
+
+#~ msgid "Select Team Type"
+#~ msgstr "Sélectionner un type d’équipe"
+
+#~ msgid "Ordering by \"Menu Order\""
+#~ msgstr "Ordonner selon votre numérotation du paramètres « ordre »"
+
+#~ msgid "Teams Block"
+#~ msgstr "Bloc équipes"
+
+#~ msgid "Display teams."
+#~ msgstr "Affiche les équipes."
+
+#~ msgid "+ Add Team"
+#~ msgstr "+ Ajouter une équipe"
+
+#~ msgid "Link Title"
+#~ msgstr "Titre du lien"
+
+#~ msgid "Learn more about the team"
+#~ msgstr "En savoir plus sur l’équipe"
+
+#~ msgid "Text, Image, Button Block"
+#~ msgstr "Bloc texte, image, et bouton"
+
+#~ msgid "Display big image with near content and action button."
+#~ msgstr "Affiche une grande image avec du contenu et un bouton d’action."
+
+#~ msgid "Image Position"
+#~ msgstr "Position de l’image"
+
+#~ msgid "Social Links"
+#~ msgstr "Liens sociaux"
+
+#~ msgid "Social Links Title"
+#~ msgstr "Titre du lien social"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "TikTok"
+#~ msgstr "TikTok"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+#~ msgid "Follow on Facebook !"
+#~ msgstr "Suivre sur Facebook !"
+
+#~ msgid "Follow on TikTok !"
+#~ msgstr "Suivre sur TikTok !"
+
+#~ msgid "Follow on Instagram !"
+#~ msgstr "Suivre sur Instagram !"
+
+#~ msgid "Follow on Twitter !"
+#~ msgstr "Suivre sur Twitter !"
+
+#~ msgid "Follow on Linkedin !"
+#~ msgstr "Suivre sur Linkedin !"
+
+#~ msgid "Vipers"
+#~ msgstr "Vipers"
+
+#~ msgid "Camp Options"
+#~ msgstr "Paramètres des stages"
+
+#~ msgid "Camp Dates"
+#~ msgstr "Date des stages"
+
+#~ msgid "+ Add a New Camp Date"
+#~ msgstr "+ Ajouter une nouvelle date de stage"
+
+#~ msgid "Personalized Date Title"
+#~ msgstr "Titre personnalisé pour l’affichage de la date"
+
+#~ msgid "Starting Date"
+#~ msgstr "Date de début"
+
+#~ msgid "Ending Date"
+#~ msgstr "Date de fin"
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid "History Options"
+#~ msgstr "Paramètres histoire"
+
+#~ msgid "History Images"
+#~ msgstr "Histoire : Images"
+
+#~ msgid "+ Add a New Image"
+#~ msgstr "+ Ajouter une nouvelle image"
+
+#~ msgid "Small Image"
+#~ msgstr "Petite image"
+
+#~ msgid "Image Text"
+#~ msgstr "Texte de l’image"
+
+#~ msgid "Image Front"
+#~ msgstr "Image"
+
+#~ msgid "The \"title\" attribute."
+#~ msgstr "L’attribut « titre »."
+
+#~ msgid "Url"
+#~ msgstr "URL"
+
+#~ msgid "Teams Page Options"
+#~ msgstr "Paramètres de la page des équipes"
+
+#~ msgid "Big Title"
+#~ msgstr "Grand titre"
+
+#~ msgid "Marquee Title"
+#~ msgstr "Slogan"
+
+#~ msgid "Page Options"
+#~ msgstr "Paramètres des page"
+
+#~ msgid "Alt Title"
+#~ msgstr "Titre alternatif"
+
+#~ msgid "Partner Options"
+#~ msgstr "Paramètres des partenaires"
+
+#~ msgid "URL Website"
+#~ msgstr "URL du site"
+
+#~ msgid "See Their Website"
+#~ msgstr "Voir leur site internet"
+
+#~ msgid "Icon class attribute."
+#~ msgstr "L’attribut « class » de l’icône."
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Player Options"
+#~ msgstr "Paramètre du joueur"
+
+#~ msgid "About"
+#~ msgstr "À propos"
+
+#~ msgid "In Game Picture"
+#~ msgstr "Image en action"
+
+#~ msgid "Number"
+#~ msgstr "Numéro"
+
+#~ msgid "Nationality"
+#~ msgstr "Nationalité"
+
+#~ msgid "Height"
+#~ msgstr "Taille"
+
+#~ msgid "Weight"
+#~ msgstr "Poids"
+
+#~ msgid "Bio"
+#~ msgstr "Bio"
+
+#~ msgid "Social Networks"
+#~ msgstr "Liens sociaux"
+
+#~ msgid "Staff Options"
+#~ msgstr "Paramètres du staff"
+
+#~ msgid "Job"
+#~ msgstr "Emploi"
+
+#~ msgid "Displayed Title"
+#~ msgstr "Titre affiché"
+
+#~ msgid "Order"
+#~ msgstr "Ordre"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Level Indicator"
+#~ msgstr "Indicateur du niveau"
+
+#~ msgid "Camp"
+#~ msgstr "Stage"
+
+#~ msgctxt "block default template"
+#~ msgid "Test Title"
+#~ msgstr "Titre test"
+
+#~ msgctxt "block default template"
+#~ msgid "Test content."
+#~ msgstr "Contenu test."
+
+#~ msgid "Partner"
+#~ msgstr "Partenaire"
+
+#~ msgid "Player"
+#~ msgstr "Joueur"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Practical informations"
+#~ msgstr "Informations pratiques"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Practical informations"
+#~ msgstr "Informations pratiques"
+
+#~ msgid "Info title"
+#~ msgstr "Titre de l’information"
+
+#~ msgid "Title attribute for listings"
+#~ msgstr "Title attribute pour les listes"
+
+#~ msgid "Attribute title of the link for listing"
+#~ msgstr "Attribut title pour les liens dans les listes"
+
+#~ msgid "Staff"
+#~ msgstr "Staff"
+
+#~ msgid "Team"
+#~ msgstr "Équipe"
+
+#~ msgctxt "block default template"
+#~ msgid "Test Button"
+#~ msgstr "Bouton de test"
+
+#~ msgid "Add Button"
+#~ msgstr "+ Ajouter un bouton"
+
+#~ msgid "Insert Button"
+#~ msgstr "Insérer un bouton"
+
+#~ msgid "Vipers Button"
+#~ msgstr "Vipers Bouton"
+
+#~ msgid "Required fields *"
+#~ msgstr "Champs requis *"
+
+#~ msgid "Internships available *"
+#~ msgstr "Stages disponibles *"
+
+#~ msgid "First name of the participant *"
+#~ msgstr "Prénom du participant *"
+
+#~ msgid "Last name of the participant *"
+#~ msgstr "Nom du participant *"
+
+#~ msgid "Montpellier Sport card N°"
+#~ msgstr "N° de carte Montpellier Sport"
+
+#~ msgid "Date of birth *"
+#~ msgstr "Date de naissance *"
+
+#~ msgid "Email *"
+#~ msgstr "Email *"
+
+#~ msgid "Phone *"
+#~ msgstr "Téléphone *"
+
+#~ msgid "Neighborhood where you live"
+#~ msgstr "Quartier où vous habitez"
+
+#~ msgid "Additional information"
+#~ msgstr "Informations complémentaires"
+
+#~ msgid "Subject *"
+#~ msgstr "Sujet *"
+
+#~ msgid "First Name *"
+#~ msgstr "Prénom *"
+
+#~ msgid "Last Name *"
+#~ msgstr "Nom de famille *"
+
+#~ msgid "Enterprise name *"
+#~ msgstr "Nom de l’entreprise *"
+
+#~ msgid "Type of partnership"
+#~ msgstr "Type de partenariat"
+
+#~ msgid "Partner Types"
+#~ msgstr "Types de partenaire"
+
+#~ msgid "Partner Type"
+#~ msgstr "Type de partenaire"
+
+#~ msgid "Search a partner type"
+#~ msgstr "Rechercher un type de partenaire"
+
+#~ msgid "All partner types"
+#~ msgstr "Tous les types de partenaire"
+
+#~ msgid "No partner type found."
+#~ msgstr "Aucun type de partenaire trouvé."
+
+#~ msgid "No partner type found in trash."
+#~ msgstr "Aucun partenaire trouvé dans la corbeille."
+
+#~ msgid "Player Positions"
+#~ msgstr "Positions du joueur"
+
+#~ msgid "Player Position"
+#~ msgstr "Position du joueur"
+
+#~ msgid "Search a player position"
+#~ msgstr "Rechercher la position d’un joueur"
+
+#~ msgid "All player positions"
+#~ msgstr "Toutes les positions des joueurs"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "No player position found."
+#~ msgstr "Aucune position de joueur trouvée."
+
+#~ msgid "No player position found in trash."
+#~ msgstr "Aucune position de joueur trouvée dans la corbeille."
+
+#~ msgid "Team Types"
+#~ msgstr "Types d’équipes"
+
+#~ msgid "Team Type"
+#~ msgstr "Type d’équipe"
+
+#~ msgid "Search a team type"
+#~ msgstr "Rechercher un type d’équipe"
+
+#~ msgid "All team types"
+#~ msgstr "Tous les types d’équipe"
+
+#~ msgid "No team type found."
+#~ msgstr "Aucun type d’équipe trouvé."
+
+#~ msgid "No team type found in trash."
+#~ msgstr "Aucun type d’équipe trouvé dans la corbeille."
+
+#~ msgid "Please give your consent"
+#~ msgstr "Veuillez donner votre consentement"
+
+#~ msgid "Confirmation of your contact request"
+#~ msgstr "Confirmation de votre demande de contact"
+
+#~ msgid ""
+#~ "Your message has been sent, but your confirmation email has not been sent."
+#~ msgstr ""
+#~ "Votre message a été envoyé, mais votre email de confirmation n’a pas été "
+#~ "envoyé."
+
+#~ msgid "Your contact request was sent!"
+#~ msgstr "Votre demande de contact a été envoyée!"
+
+#~ msgctxt "internships form date format"
+#~ msgid "d/m/Y"
+#~ msgstr "d/m/Y"
+
+#~ msgid "Not filled"
+#~ msgstr "Non renseigné"
+
+#~ msgid "Camp form from your website"
+#~ msgstr "Inscription à un stage depuis votre site internet"
+
+#~ msgid "Error! Form was not sent! Please contact us by phone."
+#~ msgstr ""
+#~ "Erreur ! Le formulaire n'a pas été envoyé ! Veuillez nous contacter par "
+#~ "téléphone."
+
+#~ msgid "Confirmation of your camp submission"
+#~ msgstr "Confirmation de votre demande d’inscription au stage"
+
+#~ msgid ""
+#~ "Your form has been sent, but your confirmation email has not been sent."
+#~ msgstr ""
+#~ "Votre formulaire a été envoyé, mais votre email de confirmation n’a pas "
+#~ "été envoyé."
+
+#~ msgid "Your submission request was sent!"
+#~ msgstr "Votre demande a été envoyée !"
+
+#~ msgid "Partner contact from your website"
+#~ msgstr "Contact depuis le formulaire partenaire"
+
+#~ msgctxt "slug"
+#~ msgid "player"
+#~ msgstr "joueur"
+
+#~ msgctxt "slug"
+#~ msgid "team"
+#~ msgstr "equipe"
+
+#~ msgctxt "slug"
+#~ msgid "camp"
+#~ msgstr "stage"
+
+#~ msgctxt "slug"
+#~ msgid "practical-info"
+#~ msgstr "informations-pratiques"
+
+#~ msgid "All Categories"
+#~ msgstr "Toutes les catégories"
+
+#~ msgid "Vipers Options"
+#~ msgstr "Paramètres des Vipers"
+
+#~ msgid "Header Options"
+#~ msgstr "Paramètres du header"
+
+#~ msgid "Header Arrow"
+#~ msgstr "Ligne en-tête"
+
+#~ msgid "Arrow Title"
+#~ msgstr "Ligne : titre"
+
+#~ msgid "Arrow Link Title"
+#~ msgstr "Ligne : attribut « title »"
+
+#~ msgid "Arrow Icon"
+#~ msgstr "Ligne icône"
+
+#~ msgid "Arrow Link"
+#~ msgstr "Ligne : lien"
+
+#~ msgid "Follow Popup"
+#~ msgstr "Popup suivez-nous"
+
+#~ msgid "Popup Title"
+#~ msgstr "Titre popup"
+
+#~ msgid "Popup Title Tag"
+#~ msgstr "Balise de titre de la popup"
+
+#~ msgid "+ Add Social Link"
+#~ msgstr "Ajouter un lien social"
+
+#~ msgid "Player Single"
+#~ msgstr "Fiche du joueur"
+
+#~ msgid "More Title"
+#~ msgstr "Titre pour en savoir plus"
+
+#~ msgid "More Content"
+#~ msgstr "Contenu pour en savoir plus"
+
+#~ msgid "More Button"
+#~ msgstr "Bouton pour en savoir plus"
+
+#~ msgid "Default Action Image"
+#~ msgstr "Image par défaut du joueur en action"
+
+#~ msgid "Default Player Image"
+#~ msgstr "Image par défaut du joueur"
+
+#~ msgid "Blog Single"
+#~ msgstr "Article du blog"
+
+#~ msgid "Inscription Form Options"
+#~ msgstr "Paramètres du formulaire d’inscription"
+
+#~ msgid "Partner Form Options"
+#~ msgstr "Paramètres du formulaire des partenaires"
+
+#~ msgid "Partnership types"
+#~ msgstr "Type de partenariat"
+
+#~ msgid "Interests"
+#~ msgstr "Intérêt"
+
+#~ msgid "Camp Registration Page"
+#~ msgstr "Page inscription à un stage"
+
+#~ msgid "City Area List"
+#~ msgstr "Liste des lieux"
+
+#~ msgid "+ Add Place"
+#~ msgstr "+ Ajouter un lieu"
+
+#~ msgid "Important Links"
+#~ msgstr "Liens importants"
+
+#~ msgid "Ticket Office URL"
+#~ msgstr "Lien billetterie"
+
+#~ msgid "Ranking URL"
+#~ msgstr "Lien classement"
+
+#~ msgid "Results URL"
+#~ msgstr "Lien résultats"
+
+#~ msgid "Next games URL"
+#~ msgstr "URL des prochains matchs"
+
+#~ msgid "Professional Team URL"
+#~ msgstr "Lien vers l’équipe pro"
+
+#~ msgid "Practical Info URL"
+#~ msgstr "Lien vers informations pratiques"
+
+#~ msgid "Header Code"
+#~ msgstr "Code dans la balise <head>"
+
+#~ msgid "Between &lt;head&gt; &lt;/head&gt; tags."
+#~ msgstr "Entre les balises &lt;head&gt; &lt;/head&gt;."
+
+#~ msgid "After Body Code"
+#~ msgstr "Après la balise <body>"
+
+#~ msgid "Footer Code"
+#~ msgstr "Code dans le footer"
+
+#~ msgid "Before &lt;/body&gt; closing tag."
+#~ msgstr "Avant la fermeture de la balise &lt;/body&gt;."
+
+#~ msgid "Meta Tags"
+#~ msgstr "Balises meta"
+
+#~ msgid "Author"
+#~ msgstr "Auteur"
+
+#~ msgid "Reply-to"
+#~ msgstr "Répondre à (email)"
+
+#~ msgid "Copyright"
+#~ msgstr "Copyright"
+
+#~ msgid "Owner"
+#~ msgstr "Acquéreur"
+
+#~ msgid "Next & Prev Games (No Match)"
+#~ msgstr "Message affiché quand il n’y a pas de match prévu"
+
+#, php-format
+#~ msgctxt "post date"
+#~ msgid "Posted on %s"
+#~ msgstr "Publié le %s"
+
+#, php-format
+#~ msgctxt "post author"
+#~ msgid "by %s"
+#~ msgstr "par %s"
+
+#~ msgid ", "
+#~ msgstr ", "
+
+#, php-format
+#~ msgid "Posted in %1$s"
+#~ msgstr "Publié dans %1$s"
+
+#~ msgctxt "list item separator"
+#~ msgid ", "
+#~ msgstr ", "
+
+#, php-format
+#~ msgid "Tagged %1$s"
+#~ msgstr "Tague %1$s"
+
+#, php-format
+#~ msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+#~ msgstr ""
+#~ "Laisser un commentaire <span class=« screen-reader-text »> sur %s</span>"
+
+#, php-format
+#~ msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+#~ msgstr "Modifier <span class=« screen-reader-text »>%s</span>"
+
+#~ msgid "Print the content"
+#~ msgstr "Imprimer contenu"
+
+#~ msgid "Share !"
+#~ msgstr "Partager !"
+
+#~ msgid "Share"
+#~ msgstr "Partager"
+
+#~ msgid "Share on Facebook !"
+#~ msgstr "Partager sur Facebook !"
+
+#~ msgid "Share on Twitter !"
+#~ msgstr "Partager sur Twitter !"
+
+#~ msgid "Share on Linkedin"
+#~ msgstr "Partager sur Linkedin"
+
+#~ msgid "Share on Whatsapp"
+#~ msgstr "Partager sur WhatsApp"
+
+#~ msgid "Copy to the clipboard !"
+#~ msgstr "Copier dans le presse-papier !"
+
+#~ msgid "Copied to the clipboard !"
+#~ msgstr "Copié dans le presse-papier !"
+
+#~ msgid "Blog Widgets"
+#~ msgstr "Widgets du blog"
+
+#~ msgid "Add widgets here."
+#~ msgstr "Ajoutez des widgets ici."
+
+#~ msgid "Header Nav Widgets"
+#~ msgstr "Widgets de la navigation de l’entête"
+
+#~ msgid "Footer 1 Widgets"
+#~ msgstr "Widgets du pied de page 1"
+
+#~ msgid "Footer 2 Widgets"
+#~ msgstr "Widgets du pied de page 2"
+
+#~ msgid "Footer 3 Widgets"
+#~ msgstr "Widgets du pied de page 3"
+
+#~ msgid "Shop Widgets"
+#~ msgstr "Widgets de la boutique"
+
+#~ msgid "# Vipers Button Widget"
+#~ msgstr "# Vipers Widget bouton"
+
+#~ msgid "Widget Title"
+#~ msgstr "Titre du widget"
+
+#~ msgid "Button Title"
+#~ msgstr "Bouton : titre"
+
+#~ msgid "# Vipers Order Widget"
+#~ msgstr "# Vipers Widget commande"
+
+#~ msgid "Newer Posts"
+#~ msgstr "Articles les plus récents"
+
+#~ msgid "Older Posts"
+#~ msgstr "Articles les plus anciens"
+
+#~ msgid "Popular Posts"
+#~ msgstr "Articles populaires"
+
+#~ msgid "# Vipers Social Links Widget"
+#~ msgstr "# Vipers Widget pour les liens sociaux"
+
+#, php-format
+#~ msgid "Edit links <a href=\"%s\" target=\"_blank\">here</a>."
+#~ msgstr "Modifier les liens <a href=\"%s\" target=\"_blank\">ici</a>."
+
+#~ msgid "View your shopping cart"
+#~ msgstr "Voir votre panier"
+
+#, php-format
+#~ msgid "Search Results for: %s"
+#~ msgstr "Résultats de la recherche pour :  %s"
+
+#~ msgid "Filter Products"
+#~ msgstr "Filtre des produits"
+
+#~ msgid "Registration"
+#~ msgstr "Inscription"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Rien n’a été trouvé"
+
+#, php-format
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "Etes-vous prêts à publier votre première publication? <a "
+#~ "href=« %1$s »>Commencez ici</a>."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+#~ "réessayer avec d’autres mots-clés."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Il semble que nous ne trouvons pas ce que vous cherchez. Peut-être qu’une "
+#~ "recherche peut vous aider."
+
+#~ msgid "Pages:"
+#~ msgstr "Pages :"
+
+#~ msgid "Jersey number :"
+#~ msgstr "Numéro du maillot :"
+
+#~ msgid "Nationality :"
+#~ msgstr "Nationalité :"
+
+#~ msgid "Birth Date :"
+#~ msgstr "Date de naissance :"
+
+#~ msgid "Age :"
+#~ msgstr "Âge :"
+
+#, php-format
+#~ msgid "%s years old"
+#~ msgstr "%s ans"
+
+#~ msgid "Height :"
+#~ msgstr "Taille :"
+
+#~ msgid "Weight :"
+#~ msgstr "Poids :"
+
+#~ msgid "My Mantra :"
+#~ msgstr "Mon mantra :"
+
+#~ msgid "Find this player on social networks:"
+#~ msgstr "Retrouvez ce joueur sur les réseaux sociaux :"
+
+#~ msgid "Want to see another article?"
+#~ msgstr "Envie de voir d’autres articles ?"
+
+#~ msgid "Read More"
+#~ msgstr "Lire plus"
+
+#~ msgid "Read more"
+#~ msgstr "Lire plus"
+
+#~ msgid "View camp details"
+#~ msgstr "Voir les détails du stage"
+
+#~ msgid "View player details"
+#~ msgstr "Voir la fiche du joueur"
+
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "Vous devez être connecté pour passer une commande."
+
+#~ msgid "Your order"
+#~ msgstr "Votre commande"
+
+#~ msgid "Have a coupon?"
+#~ msgstr "Avez-vous un code promo ?"
+
+#~ msgid "Click here to enter your code"
+#~ msgstr "Cliquez ici pour entrer votre code"
+
+#~ msgid "If you have a coupon code, please apply it below."
+#~ msgstr "Si vous avez un code promo, veuillez l’appliquer au préalable."
+
+#~ msgid "Coupon code"
+#~ msgstr "Code promo"
+
+#~ msgid "Apply coupon"
+#~ msgstr "Appliquer le code promo"
+
+#~ msgid "Username or email"
+#~ msgstr "Nom d’utilisateur ou email"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Remember me"
+#~ msgstr "Se souvenir de moi"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Lost your password?"
+#~ msgstr "Mot de passe oublié ?"
+
+#~ msgid "Username or email address"
+#~ msgstr "Nom d’utilisateur ou adresse email"
+
+#~ msgid "Log in"
+#~ msgstr "Se connecter"
+
+#~ msgid "Register"
+#~ msgstr "S’inscrire"
+
+#~ msgid "Username"
+#~ msgstr "Nom d’utilisateur"
+
+#~ msgid "Email address"
+#~ msgstr "Adresse email"
+
+#~ msgid "A password will be sent to your email address."
+#~ msgstr "Un mot de passe sera envoyé à votre adresse email."
+
+#~ msgid "Related products"
+#~ msgstr "Produits associés"
+
+#~ msgid "The montpellier vipers"
+#~ msgstr "Les Vipers de Montpellier"
+
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Vous aimerez peut-être aussi &hellip;"
+
+#~ msgid "Ice rink visibility"
+#~ msgstr "Visibilité patinoire"
+
+#~ msgid "Match visibility (jersey)"
+#~ msgstr "Visibilité match (maillots)"
+
+#~ msgid "Web visibility"
+#~ msgstr "Visibilité web"
+
+#~ msgid "Other supports"
+#~ msgstr "Autres supports"
+
+#~ msgid "VIP seats"
+#~ msgstr "Places VIP"
+
+#~ msgid "Sponsorship (tax benefit)"
+#~ msgstr "Mécénat (avantage fiscal)"
+
+#~ msgid "Service exchange"
+#~ msgstr "Echange de services"
+
+#~ msgid "Professional team"
+#~ msgstr "Equipe professionelle"
+
+#~ msgid "Minor hockey (4-20 years old formation)"
+#~ msgstr "Hockey mineur (formation 4-20 ans)"
+
+#~ msgid "Recreational hockey"
+#~ msgstr "Hockey loisir"
+
+#~ msgid "Feminine"
+#~ msgstr "Féminine"
+
+#~ msgid "Supporters"
+#~ msgstr "Supporters"
+
+#~ msgid "Club partners"
+#~ msgstr "Partenaire du club"
+
+#~ msgid "Please verify that you are not a robot."
+#~ msgstr "Veuillez confirmer que vous n’êtes pas un robot."
+
+#, fuzzy
+#~| msgid "Not selected"
+#~ msgid "Not specified"
+#~ msgstr "Non séléctionné"
+
+#~ msgid "Google"
+#~ msgstr "Google"
+
+#~ msgid "Google reCaptcha Site Key"
+#~ msgstr "Clé du site reCAPTCHA"
+
+#~ msgid "Google reCaptcha Secret"
+#~ msgstr "Clé secrète reCAPTCHA"
+
+#~ msgid "Infos pratiques"
+#~ msgstr "Informations pratiques"
+
+#~ msgid "Info pratique"
+#~ msgstr "Information pratique"
+
+#~ msgid "Info pratique Block"
+#~ msgstr "Block info pratique"
+
+#~ msgid "Display Social Links"
+#~ msgstr "Affiche les liens sociaux"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Selected Inscription"
+#~ msgstr "Description"
+
+#~ msgid "Meta Information"
+#~ msgstr "Méta-données"
+
+#~ msgid "View blog details"
+#~ msgstr "Voir les détails du blog"
+
+#~ msgid "Display desktop and mobile advertisement banners."
+#~ msgstr "Afficher les bannières publicitaires bureau et mobile."
+
+#~ msgid "Image 1"
+#~ msgstr "Image 1"
+
+#~ msgid "Desktop Image"
+#~ msgstr "Image bureau"
+
+#~ msgid "Image 2"
+#~ msgstr "Image 2"
+
+#~ msgid "Displaying Date"
+#~ msgstr "Afficher la date"
+
+#~ msgid "staffs"
+#~ msgstr "staff"
+
+#~ msgid "Partner Positions"
+#~ msgstr "Positions du partenaire"
+
+#~ msgid "Partner Position"
+#~ msgstr "Position du partenaire"
+
+#~ msgid "Search a partner position"
+#~ msgstr "Rechercher la position d’un partenaire"
+
+#~ msgid "All partner positions"
+#~ msgstr "Toutes les positions du partenaire"
+
+#~ msgid "No partner position found."
+#~ msgstr "Aucune position du partenaire trouvé."
+
+#~ msgid "No partner position found in trash."
+#~ msgstr "Aucune position du partenaire trouvé dans la corbeille."
+
+#~ msgid "Error while saving the changes."
+#~ msgstr "Erreur lors de l’enregistrement des modifications."
+
+#~ msgid "Settings successfully imported."
+#~ msgstr "Paramètres importés avec succès."
+
+#~ msgid "Default settings restored."
+#~ msgstr "Paramètres par défaut restaurés."
+
+#~ msgid "Settings saved."
+#~ msgstr "Réglages enregistrés."
+
+#~ msgid "You have unsaved changes, save your changes!"
+#~ msgstr ""
+#~ "Vous avez des modifications non enregistrées, enregistrez vos "
+#~ "modifications!"
+
+#~ msgid "show all settings"
+#~ msgstr "voir tous les paramètres"
+
+#~ msgid "Search..."
+#~ msgstr "Recherche…"
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Saving..."
+#~ msgstr "Enregistrement…"
+
+#~ msgid "Reset Section"
+#~ msgstr "Réinitialiser cette section"
+
+#~ msgid "Are you sure to reset this section options?"
+#~ msgstr ""
+#~ "Êtes-vous sûr de vouloir réinitialiser les options de cette section ?"
+
+#~ msgid "Reset All"
+#~ msgstr "Tout réinitialiser"
+
+#~ msgid "Reset"
+#~ msgstr "Tout réinitialiser"
+
+#~ msgid "Are you sure you want to reset all settings to default values?"
+#~ msgstr ""
+#~ "Voulez-vous vraiment réinitialiser tous les paramètres aux valeurs par "
+#~ "défaut?"
+
+#~ msgid "No data available."
+#~ msgstr "Pas de données disponibles."
+
+#~ msgid "update post"
+#~ msgstr "mettre à jour le post"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Êtes-vous sûr ?"
+
+#, php-format
+#~ msgid "Please enter %s or more characters"
+#~ msgstr "Veuillez entrer %s caractères ou plus"
+
+#~ msgid "Searching..."
+#~ msgstr "Recherche en cours…"
+
+#~ msgid "No results found."
+#~ msgstr "Aucun résultat trouvé."
+
+#~ msgid "Oops! Not allowed."
+#~ msgstr "Oups! Interdit."
+
+#~ msgid "Field not found!"
+#~ msgstr "Champ introuvable!"
+
+#~ msgid "Add New"
+#~ msgstr "Ajouter"
+
+#~ msgid "Error: Invalid nonce verification."
+#~ msgstr "Erreur: vérification du nonce non valide."
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "To"
+#~ msgstr "À"
+
+#~ msgid "Direction"
+#~ msgstr "Direction"
+
+#~ msgid "Gradient Direction"
+#~ msgstr "Direction du gradient"
+
+#~ msgid "&#8659; top to bottom"
+#~ msgstr "&#8659;  de haut en bas"
+
+#~ msgid "&#8658; left to right"
+#~ msgstr "&#8658; de gauche à droite"
+
+#~ msgid "&#8664; corner top to right"
+#~ msgstr "&#8664; coin en haut à droite"
+
+#~ msgid "&#8665; corner top to left"
+#~ msgstr "&#8665; coin en haut à gauche"
+
+#~ msgid "Background Position"
+#~ msgstr "Position de fond"
+
+#~ msgid "Left Top"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Left Bottom"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Center Top"
+#~ msgstr "Centre haut"
+
+#~ msgid "Center Center"
+#~ msgstr "Centre centre"
+
+#~ msgid "Center Bottom"
+#~ msgstr "Centre bas"
+
+#~ msgid "Right Top"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Right Bottom"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Répétition du fond"
+
+#~ msgid "Repeat"
+#~ msgstr "Répéter"
+
+#~ msgid "No Repeat"
+#~ msgstr "Pas de répétition"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Répéter horizontalement"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Répéter verticalement"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Media de fond"
+
+#~ msgid "Scroll"
+#~ msgstr "Défilement"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixe"
+
+#~ msgid "Background Size"
+#~ msgstr "Taille de fond"
+
+#~ msgid "Cover"
+#~ msgstr "Couvrir"
+
+#~ msgid "Contain"
+#~ msgstr "Contenir"
+
+#~ msgid "Auto"
+#~ msgstr "Auto"
+
+#~ msgid "Background Origin"
+#~ msgstr "Fond par défaut"
+
+#~ msgid "Padding Box"
+#~ msgstr "Padding Box"
+
+#~ msgid "Border Box"
+#~ msgstr "Border Box"
+
+#~ msgid "Content Box"
+#~ msgstr "Content Box"
+
+#~ msgid "Background Clip"
+#~ msgstr "Background Clip"
+
+#~ msgid "Background Blend Mode"
+#~ msgstr "Background Blend Mode"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Multiply"
+#~ msgstr "Multiplier"
+
+#~ msgid "Screen"
+#~ msgstr "Écran"
+
+#~ msgid "Overlay"
+#~ msgstr "Recouvrir"
+
+#~ msgid "Darken"
+#~ msgstr "Assombrir"
+
+#~ msgid "Lighten"
+#~ msgstr "Lumineux"
+
+#~ msgid "Color Dodge"
+#~ msgstr "Dodge couleur"
+
+#~ msgid "Saturation"
+#~ msgstr "Saturation"
+
+#~ msgid "Color"
+#~ msgstr "Color"
+
+#~ msgid "Luminosity"
+#~ msgstr "Luminosité"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Export & Download"
+#~ msgstr "Exporter et télécharger"
+
+#~ msgid "top"
+#~ msgstr "haut"
+
+#~ msgid "left"
+#~ msgstr "gauche"
+
+#~ msgid "all"
+#~ msgstr "tous"
+
+#~ msgid "Solid"
+#~ msgstr "Solid"
+
+#~ msgid "Dashed"
+#~ msgstr "Dashed"
+
+#~ msgid "Dotted"
+#~ msgstr "Dotted"
+
+#~ msgid "Double"
+#~ msgstr "Double"
+
+#~ msgid "Inset"
+#~ msgstr "Inset"
+
+#~ msgid "Outset"
+#~ msgstr "Outset"
+
+#~ msgid "Groove"
+#~ msgstr "Groove"
+
+#~ msgid "ridge"
+#~ msgstr "ridge"
+
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "width"
+#~ msgstr "largeur"
+
+#~ msgid "height"
+#~ msgstr "hauteur"
+
+#~ msgid "Add Gallery"
+#~ msgstr "Ajouter une galerie"
+
+#~ msgid "Edit Gallery"
+#~ msgstr "Editer la galerie"
+
+#~ msgid "Clear"
+#~ msgstr "Nettoyer"
+
+#~ msgid "Error: Field ID conflict."
+#~ msgstr "Erreur: conflit d’ID de champ."
+
+#~ msgid "Are you sure to delete this item?"
+#~ msgstr "Êtes-vous sûr de vouloir supprimer cet article?"
+
+#~ msgid "You cannot add more."
+#~ msgstr "Vous ne pouvez pas en ajouter plus."
+
+#~ msgid "You cannot remove more."
+#~ msgstr "Vous ne pouvez pas en supprimer plus."
+
+#~ msgid "Add Icon"
+#~ msgstr "Ajouter une icône"
+
+#~ msgid "Remove Icon"
+#~ msgstr "Supprimer l’icône"
+
+#~ msgid "Add Link"
+#~ msgstr "Ajouter un lien"
+
+#~ msgid "Edit Link"
+#~ msgstr "Modifier le lien"
+
+#~ msgid "Remove Link"
+#~ msgstr "Supprimer le lien"
+
+#~ msgid "Hover"
+#~ msgstr "Survol"
+
+#~ msgid "Visited"
+#~ msgstr "Visité"
+
+#~ msgid "Focus"
+#~ msgstr "Focus"
+
+#~ msgid "Latitude"
+#~ msgstr "Latitude"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitude"
+
+#~ msgid "Upload"
+#~ msgstr "Télécharger"
+
+#~ msgid "Remove"
+#~ msgstr "Retirer"
+
+#~ msgid "Enabled"
+#~ msgstr "Activé"
+
+#~ msgid "Disabled"
+#~ msgstr "Désactivé"
+
+#~ msgid "On"
+#~ msgstr "On"
+
+#~ msgid "Off"
+#~ msgstr "Off"
+
+#~ msgid "Font Family"
+#~ msgstr "Police de caractère"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Sauvegarde de famille de polices"
+
+#~ msgid "Default"
+#~ msgstr "Par défaut"
+
+#~ msgid "Font Style"
+#~ msgstr "Typographie (font style)"
+
+#~ msgid "Load Extra Styles"
+#~ msgstr "Charger des styles supplémentaires"
+
+#~ msgid "Subset"
+#~ msgstr "Subset"
+
+#~ msgid "Text Align"
+#~ msgstr "Alignement du texte"
+
+#~ msgid "Inherit"
+#~ msgstr "Inherit"
+
+#~ msgid "Justify"
+#~ msgstr "Justifier"
+
+#~ msgid "Initial"
+#~ msgstr "Initial"
+
+#~ msgid "Font Variant"
+#~ msgstr "Variante de police"
+
+#~ msgid "All Small Caps"
+#~ msgstr "Tout en minuscule"
+
+#~ msgid "Text Transform"
+#~ msgstr "Transformation du texte"
+
+#~ msgid "Capitalize"
+#~ msgstr "Capitaliser"
+
+#~ msgid "Uppercase"
+#~ msgstr "Majuscule"
+
+#~ msgid "Lowercase"
+#~ msgstr "Minuscule"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Décoration de texte"
+
+#~ msgid "Wavy"
+#~ msgstr "Wavy"
+
+#~ msgid "Overline"
+#~ msgstr "Overline"
+
+#~ msgid "Line-through"
+#~ msgstr "Line-through"
+
+#~ msgid "Font Size"
+#~ msgstr "Taille de police"
+
+#~ msgid "Line Height"
+#~ msgstr "Hauteur de la ligne"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "L’espacement des lettres"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Espacement des mots"
+
+#~ msgid "Font Color"
+#~ msgstr "Couleur de la police"
+
+#~ msgid "Custom Style"
+#~ msgstr "Style personnalisé"
+
+#~ msgid "Custom Web Fonts"
+#~ msgstr "Polices Web personnalisées"
+
+#~ msgid "Safe Web Fonts"
+#~ msgstr "Safe Web Fonts"
+
+#~ msgid "Google Web Fonts"
+#~ msgstr "Google Web Fonts"
+
+#~ msgid "Error: Invalid key."
+#~ msgstr "Erreur: clé non valide."
+
+#~ msgid "Error: The response is not a valid JSON response."
+#~ msgstr "Erreur: la réponse n’est pas une réponse JSON valide."
+
+#~ msgid "Error: Invalid term ID."
+#~ msgstr "Erreur: ID de terme non valide."
+
+#~ msgid "Error: You do not have permission to do that."
+#~ msgstr "Erreur: vous n’êtes pas autorisé à le faire."
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "S’il vous plaît, mettez une adresse email valide."
+
+#~ msgid "Please enter a valid number."
+#~ msgstr "S’il vous plait, entrez un nombre valide."
+
+#~ msgid "This field is required."
+#~ msgstr "Ce champ est requis."
+
+#~ msgid "Please enter a valid URL."
+#~ msgstr "Veuillez saisir une URL valide."
+
+#, php-format
+#~ msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+#~ msgstr ""
+#~ "Continuer la lecture de <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#~ msgid "Find out more"
+#~ msgstr "En savoir plus"
+
+#~ msgid "Oops! That page can't be found."
+#~ msgstr "Oups! Cette page est introuvable."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try a search ?"
+#~ msgstr ""
+#~ "Il semble que rien n’a été trouvé à cet endroit. Essayez peut-être une "
+#~ "recherche ?"
+
+#~ msgid "delete"
+#~ msgstr "supprimer"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Primary Menu"
+
+#~ msgid "Sidebar"
+#~ msgstr "Barre latérale"
+
+#~ msgid "Add search widgets here."
+#~ msgstr "Ajoutez des widgets de recherche ici."
+
+#~ msgid "Add footer widgets here."
+#~ msgstr "Ajoutez des widgets de pied de page ici."
+
+#~ msgid "Footer 4 Widgets"
+#~ msgstr "Widgets du pied de page 4"
+
+#~ msgid "Footer 5 Widgets"
+#~ msgstr "Widgets du pied de page 5"
+
+#~ msgid "An error has occurred please contact us by phone"
+#~ msgstr "Une erreur s’est produite veuillez nous contacter par téléphone"
+
+#~ msgid "Sending in progress"
+#~ msgstr "Envoi en cours"
+
+#~ msgid "If you want to contact us, please activate reCaptcha before"
+#~ msgstr "Si vous souhaitez nous contacter, veuillez activer reCaptcha avant"
+
+#~ msgid "PDFs"
+#~ msgstr "PDFs"
+
+#~ msgid "Manage PDFs"
+#~ msgstr "Gérer les PDF"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "All our programs"
+#~ msgstr "Tous nos programmes"
+
+#~ msgid "Our programs"
+#~ msgstr "Nos programmes"
+
+#~ msgid "Our exclusive programs"
+#~ msgstr "Nos programmes en exclusivité"
+
+#~ msgid "law"
+#~ msgstr "loi"
+
+#~ msgid "Exceptional location"
+#~ msgstr "Localisation exceptionnelle"
+
+#~ msgid "Please click on the reCAPTCHA box."
+#~ msgstr "Veuillez cliquer sur reCaptcha."
+
+#, php-format
+#~ msgid "%1$s %2$s <%3$s>"
+#~ msgstr "%1$s %2$s <%3$s>"
+
+#~ msgid "Call back request"
+#~ msgstr "Demande de rappel"
+
+#~ msgid "Confirmation of your call back request"
+#~ msgstr "Confirmation de votre demande de rappel"
+
+#~ msgid "The file you require no more exist"
+#~ msgstr "Le fichier que vous demandez n’existe plus"
+
+#, php-format
+#~ msgid "Request from user for: %s"
+#~ msgstr "Demande de l’utilisateur pour : %s"
+
+#, php-format
+#~ msgid "Your request for: %s"
+#~ msgstr "Votre requête pour : %s"
+
+#~ msgid "This plan no longer exists."
+#~ msgstr "Le plan n’existe plus."
+
+#, php-format
+#~ msgid "Comment Page %s"
+#~ msgstr "Page de commentaire %s"
+
+#, php-format
+#~ msgid "Archive by Category \"%s\""
+#~ msgstr "Archive par catégorie \"%s\""
+
+#~ msgid "Search"
+#~ msgstr "Recherche"
+
+#, php-format
+#~ msgid "Posts Tagged \"%s\""
+#~ msgstr "Articles balisés « %s »"
+
+#, php-format
+#~ msgid "Articles Posted by %s"
+#~ msgstr "Articles postés par %s"
+
+#~ msgid "Error 404"
+#~ msgstr "Erreur 404"
+
+#~ msgid "Actualities"
+#~ msgstr "Actualités"
+
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#~ msgid "Discover now"
+#~ msgstr "Découvrir maintenant"
+
+#~ msgid "Previous"
+#~ msgstr "Précédent"
+
+#~ msgid "Next"
+#~ msgstr "Suivant"
+
+#~ msgid "Get structured"
+#~ msgstr "Se structurer"
+
+#~ msgid "Édito"
+#~ msgstr "Édito"
+
+#~ msgid "Our team"
+#~ msgstr "Notre équipe"
+
+#, php-format
+#~ msgid "No result for the search: %s"
+#~ msgstr "Aucun résultat pour la recherche: %s"
+
+#, php-format
+#~ msgid "Search : \"%s\""
+#~ msgstr "Recherche : %s"
+
+#~ msgid "Error: Nonce verification has failed. Please try again."
+#~ msgstr "Erreur: la vérification du nonce a échouée. Veuillez réessayer."
+
+#~ msgid "Know more"
+#~ msgstr "EN SAVOIR PLUS"
+
+#~ msgid "Wish to receive the newsletter of SARRO IMMOBILIER"
+#~ msgstr "Je souhaite recevoir la newsletter de SARRO IMMOBILIER"
+
+#~ msgid "YES"
+#~ msgstr "OUI"
+
+#~ msgid "Document"
+#~ msgstr "Document"
+
+#~ msgid "Link to the documentation"
+#~ msgstr "Lien vers la documentation"
+
+#~ msgid "The page of the programs"
+#~ msgstr "La page du programme"
+
+#~ msgid "Link to the page of the program consulted"
+#~ msgstr "Lien vers la page du programme consulté"
+
+#~ msgid "Approval Fields"
+#~ msgstr "Champs d’approbation"
+
+#~ msgid "Open In New Tab"
+#~ msgstr "Ouvrir dans un nouvel onglet"
+
+#~ msgid "Approvals"
+#~ msgstr "Agréments"
+
+#~ msgid "Our approvals"
+#~ msgstr "Nos agréments"
+
+#~ msgid "approvals"
+#~ msgstr "agréments"
+
+#~ msgid "Leave empty to have the default elements"
+#~ msgstr "Laissez vide pour avoir les éléments par défaut"
+
+#~ msgid "Links"
+#~ msgstr "Links"
+
+#~ msgid "Useful links"
+#~ msgstr "Liens utiles"
+
+#~ msgid "parameters"
+#~ msgstr "paramètres"
+
+#~ msgid "Open in new window"
+#~ msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#~ msgid "Header"
+#~ msgstr "Entête"
+
+#~ msgid "Main color"
+#~ msgstr "Couleur principale"
+
+#~ msgid "Category Settings"
+#~ msgstr "Paramètres des catégories"
+
+#~ msgid "Border Color"
+#~ msgstr "Couleur de la bordure"
+
+#~ msgid "Law Settings"
+#~ msgstr "Paramètres des lois"
+
+#~ msgid "Bloc Text Top"
+#~ msgstr "Encart du texte situé en haut de page"
+
+#~ msgid "Bloc Text Bot"
+#~ msgstr "Encart du texte situé en bas de page"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid "Breadcrumb"
+#~ msgstr "Fil d’Ariane"
+
+#~ msgid "Background position"
+#~ msgstr "Position du fond"
+
+#~ msgid "Top - Center"
+#~ msgstr "Haut - Centrer"
+
+#~ msgid "Middle - Center"
+#~ msgstr "Centrer"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "PDF"
+#~ msgstr "PDF"
+
+#~ msgid "Approaches / Objectives"
+#~ msgstr "Approches / Objectifs"
+
+#~ msgid "Card & slider display"
+#~ msgstr "Affichage d’ans la carte et le slider"
+
+#~ msgid "Title prefix"
+#~ msgstr "Préfixe de titre"
+
+#~ msgid "Title (default post title)"
+#~ msgstr "Titre (titre par défaut du post)"
+
+#~ msgid "content (default post excerpt)"
+#~ msgstr "contenu"
+
+#~ msgid "Activate contact"
+#~ msgstr "Activer le contact"
+
+#~ msgid "Would you like more information? You have a question?"
+#~ msgstr "Vous souhaitez plus d’infos ? Vous avez une question ?"
+
+#~ msgid "Select a contact page"
+#~ msgstr "Sélectionnez une page de contact"
+
+#~ msgid "Activate share button"
+#~ msgstr "Activer le bouton de partage"
+
+#~ msgid "Missions / Services"
+#~ msgstr "Missions / Services"
+
+#~ msgid "Element"
+#~ msgstr "Élément"
+
+#~ msgid "Plan Settings"
+#~ msgstr "Paramètres des plan"
+
+#~ msgid "Program Settings"
+#~ msgstr "Paramètres des programmes"
+
+#~ msgid "Law"
+#~ msgstr "Loi"
+
+#~ msgid "Finished Program"
+#~ msgstr "Programme terminé"
+
+#~ msgid "NO"
+#~ msgstr "NON"
+
+#~ msgid "Exclusive"
+#~ msgstr "Exclusif"
+
+#~ msgid "Youtube ID"
+#~ msgstr "Youtube ID"
+
+#~ msgid "Youtube Thumbnail"
+#~ msgstr "Image vidéo YouTube"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Header Third Button"
+#~ msgstr "3ème bouton de l’entête"
+
+#~ msgid "Header Last Button"
+#~ msgstr "Dernier bouton de l’entête"
+
+#~ msgid "Apartment Table"
+#~ msgstr "Tableau appartement"
+
+#~ msgid "+ Add Table Row"
+#~ msgstr "+ Ajouter une ligne au tableau"
+
+#~ msgid "Apartment"
+#~ msgstr "Appartement"
+
+#~ msgid "Int. area"
+#~ msgstr "Surf. Int"
+
+#~ msgid "Ext area"
+#~ msgstr "Surf. ext"
+
+#~ msgid "Stage"
+#~ msgstr "Étage"
+
+#~ msgid "Price"
+#~ msgstr "Prix"
+
+#~ msgid "Plan"
+#~ msgstr "Plan"
+
+#~ msgid "Brochure and law"
+#~ msgstr "Brochure et loi"
+
+#~ msgid "Brochure"
+#~ msgstr "Brochure"
+
+#~ msgid "Guide of Law"
+#~ msgstr "Guide des lois"
+
+#~ msgid "Location"
+#~ msgstr "Localisation"
+
+#~ msgid "Map"
+#~ msgstr "Carte"
+
+#~ msgid "Specifications Settings"
+#~ msgstr "Paramètres des spécifications des programmes"
+
+#~ msgid "Developing"
+#~ msgstr "Se développer"
+
+#~ msgid "Profile"
+#~ msgstr "Profile"
+
+#~ msgid "Download or read media"
+#~ msgstr "Télécharger ou lire un médias"
+
+#~ msgid "Download our brochure"
+#~ msgstr "Téléchargez notre brochure"
+
+#~ msgid "Choose action"
+#~ msgstr "Choisir une action"
+
+#~ msgid "Media"
+#~ msgstr "Media"
+
+#~ msgid "QSN"
+#~ msgstr "QSN"
+
+#~ msgid "Slider Fields"
+#~ msgstr "Champs du spider"
+
+#~ msgid "Videos"
+#~ msgstr "Vidéos"
+
+#~ msgid "Category"
+#~ msgstr "Catégorie"
+
+#~ msgid "Search a category"
+#~ msgstr "Rechercher une catégorie"
+
+#~ msgid "All categories"
+#~ msgstr "Toutes les catégories"
+
+#~ msgid "No categories found."
+#~ msgstr "Aucun résultat trouvé."
+
+#~ msgid "No categories found in Trash."
+#~ msgstr "Aucune catégorie trouvée dans la corbeille."
+
+#~ msgid "Cities"
+#~ msgstr "Villes"
+
+#~ msgid "City"
+#~ msgstr "Ville"
+
+#~ msgid "Search a city"
+#~ msgstr "Rechercher une ville"
+
+#~ msgid "All cities"
+#~ msgstr "Toutes les villes"
+
+#~ msgid "No cities found."
+#~ msgstr "Aucune ville trouvée."
+
+#~ msgid "No cities found in trash."
+#~ msgstr "Aucune ville trouvée dans la corbeille."
+
+#~ msgid "No category found."
+#~ msgstr "Aucune catégorie trouvée."
+
+#~ msgid "No category found in trash."
+#~ msgstr "Aucune catégorie trouvée dans la corbeille."
+
+#~ msgid "categories"
+#~ msgstr "catégories"
+
+#~ msgid "Search a Category"
+#~ msgstr "Rechercher une catégorie"
+
+#~ msgid "No Categories found."
+#~ msgstr "Aucune catégorie trouvée."
+
+#~ msgid "No categories found in trash."
+#~ msgstr "Aucune catégorie trouvée dans la corbeille."
+
+#~ msgid "Locations"
+#~ msgstr "Localisations"
+
+#~ msgid "Program specifications"
+#~ msgstr "Spécifications des programmes"
+
+#~ msgid "Program specification"
+#~ msgstr "Spécification des programmes"
+
+#~ msgid "Search a Program specifications"
+#~ msgstr "Rechercher une spécification de programme"
+
+#~ msgid "All Program specifications"
+#~ msgstr "Toutes les spécifications de programme"
+
+#~ msgid "Program spécifications"
+#~ msgstr "Spécifications des programmes"
+
+#~ msgid "No Program specifications found."
+#~ msgstr "Aucune spécification de programme trouvée."
+
+#~ msgid "No Program specifications found in trash."
+#~ msgstr "Aucune spécification de programme trouvée dans la corbeille."
+
+#~ msgid "Statutes"
+#~ msgstr "Statuts"
+
+#~ msgid "Search a status"
+#~ msgstr "Rechercher un statut"
+
+#~ msgid "All Statutes"
+#~ msgstr "Tous les statuts"
+
+#~ msgid "No status found."
+#~ msgstr "Aucun statut trouvé."
+
+#~ msgid "Program types"
+#~ msgstr "Types de programme"
+
+#~ msgid "Program type"
+#~ msgstr "Type de programme"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Approvals"
+#~ msgstr "Agréments"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Approval"
+#~ msgstr "Agrément"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Approvals"
+#~ msgstr "Agréments"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Approval"
+#~ msgstr "Agrément"
+
+#~ msgid "Approval"
+#~ msgstr "Agrément"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Figures"
+#~ msgstr "Key figures"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Figure"
+#~ msgstr "Figure"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Figures"
+#~ msgstr "Key figures"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Figure"
+#~ msgstr "Figure"
+
+#~ msgid "Figures"
+#~ msgstr "Key figures"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Jobs"
+#~ msgstr "Offre d’emploi"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Job"
+#~ msgstr "Emploi"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Jobs"
+#~ msgstr "Offre d’emploi"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Job"
+#~ msgstr "Emploi"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Laws"
+#~ msgstr "Lois"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Law"
+#~ msgstr "Loi"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Laws"
+#~ msgstr "Lois"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Law"
+#~ msgstr "Loi"
+
+#~ msgid "Missions / services"
+#~ msgstr "Missions / services"
+
+#~ msgid "Missions & services"
+#~ msgstr "Missions et services"
+
+#~ msgid "mission_services"
+#~ msgstr "mission_services"
+
+#~ msgid "Newsletters"
+#~ msgstr "Newsletters"
+
+#~ msgctxt "slug"
+#~ msgid "newsletter"
+#~ msgstr "newsletter"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Partners"
+#~ msgstr "Partenaires"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Partner"
+#~ msgstr "Partenaire"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Partners"
+#~ msgstr "Partenaires"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Partner"
+#~ msgstr "Partenaire"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Programs"
+#~ msgstr "Programmes"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Program"
+#~ msgstr "Programme"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Programs"
+#~ msgstr "Programmes"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Program"
+#~ msgstr "Programme"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Services"
+#~ msgstr "Services"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Services"
+#~ msgstr "Services"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "our-team"
+#~ msgstr "notre-equipe"
+
+#~ msgid "Trade"
+#~ msgstr "Métier"
+
+#~ msgid "Trades"
+#~ msgstr "Métiers"
+
+#~ msgctxt "slug"
+#~ msgid "trade"
+#~ msgstr "metier"
+
+#~ msgid "video"
+#~ msgstr "vidéo"
+
+#~ msgid "Video"
+#~ msgstr "Vidéo"
+
+#~ msgctxt "slug"
+#~ msgid "video"
+#~ msgstr "video"
+
+#~ msgid "Itinary"
+#~ msgstr "Itinéraire"
+
+#~ msgid "You are missing the form id use \"form_id=__FORM-NAME__\""
+#~ msgstr ""
+#~ "Il vous manque l’ID du formulaire, utilisez « form_id = __ FORM-NAME__ »"
+
+#~ msgid "ALL FIELDS ARE MANDATORY"
+#~ msgstr "TOUS LES CHAMPS SONT OBLIGATOIRES"
+
+#~ msgid "Your last name"
+#~ msgstr "Votre nom de famille"
+
+#~ msgid "Please provide your last name."
+#~ msgstr "Veuillez renseigner votre nom."
+
+#~ msgid "Your first name"
+#~ msgstr "Votre prénom"
+
+#~ msgid "Please provide your first name."
+#~ msgstr "Veuillez renseigner votre prénom."
+
+#~ msgid "Your phone number"
+#~ msgstr "Numéro de téléphone"
+
+#~ msgid "Please provide your phone number."
+#~ msgstr "Veuillez renseigner votre numéro de téléphone."
+
+#~ msgid "Please provide your message."
+#~ msgstr "Veuillez renseigner votre message."
+
+#~ msgid "I wish to receive the newsletter SARRO IMMOBILIER"
+#~ msgstr "Je souhaite recevoir la newsletter SARRO IMMOBILIER"
+
+#~ msgid "Groupe Sarro Cities Page"
+#~ msgstr "Page Villes de Groupe Sarro"
+
+#~ msgid "Finished"
+#~ msgstr "Terminé"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Header Action 2"
+#~ msgstr "Action d’en-tête 2"
+
+#~ msgid "Text 2"
+#~ msgstr "Texte 2"
+
+#~ msgid "Hover text."
+#~ msgstr "Texte au survol."
+
+#~ msgid "Left Logo"
+#~ msgstr "Logo gauche"
+
+#~ msgid "Immobilier Pages Menu"
+#~ msgstr "Menu des pages Immobilier"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Alt Text"
+#~ msgstr "Texte alternatif"
+
+#~ msgid "Logo Link"
+#~ msgstr "Lien du logo"
+
+#~ msgid "Footer Options"
+#~ msgstr "Options de pied de page"
+
+#~ msgid "Footer Bottom Left"
+#~ msgstr "Pied de page en bas à gauche"
+
+#~ msgid "Footer Bottom Right"
+#~ msgstr "Pied de page en bas à droite"
+
+#~ msgid "Buttons Title Tag"
+#~ msgstr "Bouton : balise de titre"
+
+#~ msgid "Button 3"
+#~ msgstr "Bouton 3"
+
+#~ msgid "Who are We"
+#~ msgstr "Qui sommes nous"
+
+#~ msgid "Drag & drop for change the order."
+#~ msgstr "Glissez-déposez pour changer l’ordre."
+
+#~ msgid "Programs"
+#~ msgstr "Programmes"
+
+#~ msgid "Finished Programs"
+#~ msgstr "Programmes terminés"
+
+#~ msgid "Our achievements"
+#~ msgstr "Nos réalisations"
+
+#~ msgid "Right Action Button"
+#~ msgstr "Bouton d’action à droite"
+
+#~ msgid "Services"
+#~ msgstr "Services"
+
+#~ msgid "Approvals Title"
+#~ msgstr "Agréments : titre"
+
+#~ msgid "Approvals Title Tag"
+#~ msgstr "Agréments : Balise de titre"
+
+#~ msgid "Approvals Description"
+#~ msgstr "Agréments : description"
+
+#~ msgid "Approvals Action"
+#~ msgstr "Agréments : action"
+
+#~ msgid "Programs Archive"
+#~ msgstr "Archive programmes"
+
+#~ msgid "Programs Background"
+#~ msgstr "Arrière plan des programmes"
+
+#~ msgid "Banner Action Button"
+#~ msgstr "Bouton d’action de la bannière"
+
+#~ msgid "Header Background"
+#~ msgstr "Fond de l’entête"
+
+#~ msgid "Mapbox Access Token"
+#~ msgstr "Token Mapbox d’accès"
+
+#~ msgid "Law archive"
+#~ msgstr "Archives des lois"
+
+#~ msgid "Law default Background"
+#~ msgstr "Image de fond par défaut pour les pages de loi"
+
+#~ msgid "Pages"
+#~ msgstr "Pages"
+
+#~ msgid "Background image"
+#~ msgstr "Image de fond"
+
+#~ msgid "MailJet (Widget URL)"
+#~ msgstr "MailJet (URL du widget)"
+
+#~ msgid "Captcha Key"
+#~ msgstr "Clé reCaptcha"
+
+#~ msgid "Google maps link"
+#~ msgstr "Google maps (lien)"
+
+#~ msgid "Itinerary"
+#~ msgstr "Itinéraire"
+
+#~ msgid "Contact Name"
+#~ msgstr "Nom du contact"
+
+#~ msgid "Contact Email"
+#~ msgstr "Email du contact"
+
+#~ msgid "Email for contact confirmation"
+#~ msgstr "Email pour l’email de confirmation"
+
+#~ msgid "Name for contact confirmation"
+#~ msgstr "Nom pour l’email de confirmation"
+
+#~ msgid "Description for documents contact form"
+#~ msgstr "Description pour le formulaire de demande de document"
+
+#~ msgid "GRPD cookies popup"
+#~ msgstr "Fenêtre contextuelle des cookies GRPD"
+
+#~ msgid "Call me"
+#~ msgstr "Appelez-moi"
+
+#~ msgid "Paragraph 1"
+#~ msgstr "Paragraph 1"
+
+#~ msgid "Footer Info Widget"
+#~ msgstr "Widget d’informations de pied de page"
+
+#~ msgid "Our Approvals"
+#~ msgstr "Nos agréments"
+
+#~ msgid "Exclusivity"
+#~ msgstr "Exclusivité"
+
+#~ msgid ""
+#~ "Sorry, there is currently no content. Come back later or try another page."
+#~ msgstr ""
+#~ "Désolé, il n’y a actuellement aucun contenu. Revenez plus tard ou essayez "
+#~ "une autre page."
+
+#~ msgctxt "partners"
+#~ msgid "All"
+#~ msgstr "Toutes"
+
+#~ msgid "know more"
+#~ msgstr "en savoir plus"
+
+#~ msgid "I go"
+#~ msgstr "J’y  vais"
+
+#~ msgid "Go on the website"
+#~ msgstr "Aller sur le site"
+
+#~ msgid "Your search..."
+#~ msgstr "Votre recherche…"
+
+#~ msgid "Estimated date of delivery :"
+#~ msgstr "Date de livraison estimée :"
+
+#~ msgid "This program has been already delivered"
+#~ msgstr "Ce programme a déjà été livré"
+
+#~ msgid "Apart."
+#~ msgstr "App."
+
+#~ msgid "Download plan"
+#~ msgstr "Télécharger notre Plan"
+
+#~ msgid "Receive brochure"
+#~ msgstr "Recevoir la brochure"
+
+#~ msgid "Download the brochure"
+#~ msgstr "Téléchargez notre brochure"
+
+#~ msgid "Receive guide of law"
+#~ msgstr "Recevoir le guide des lois applicables"
+
+#~ msgid "Guide of law Applicable"
+#~ msgstr "Guide des lois Applicable"
+
+#~ msgid "Receive documentation"
+#~ msgstr "Recevoir la documentation"
+
+#~ msgid "This property interests you ?"
+#~ msgstr "Ce bien vous intéresse ?"
+
+#~ msgid "Are you looking for a similar property ?"
+#~ msgstr "Recherchez-vous un bien similaire ?"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Partager sur Pinterest"
+
+#~ msgid "Share on Skype"
+#~ msgstr "Partager sur Skype"
+
+#~ msgid "You will like also"
+#~ msgstr "Vous aimerez également"
+
+#~ msgid "All our programs for investing"
+#~ msgstr "Tous nos programmes pour investir"
+
+#~ msgid "You wish more infos ?"
+#~ msgstr "Vous souhaitez plus d’infos ?"
+
+#~ msgid "Programs currently on the market"
+#~ msgstr "Ce programme est en cours de commercialisation"
+
+#~ msgid "Finance Law, Device"
+#~ msgstr "Loi de finance, dispositif"
+
+#~ msgid "Published the"
+#~ msgstr "Publié le"
+
+#~ msgid "No post defined"
+#~ msgstr "Aucun post défini"
+
+#~ msgid "Print"
+#~ msgstr "Imprimer"
+
+#~ msgid "title"
+#~ msgstr "Titre"
+
+#~ msgid "General Plan"
+#~ msgstr "Plan général"
+
+#~ msgid "Envoyer"
+#~ msgstr "Envoyer"
+
+#~ msgid "OBJECT"
+#~ msgstr "SUJET"
+
+#~ msgid "Google Analytics (gtag)"
+#~ msgstr "Google Analytics (gtag)"
+
+#~ msgid "City, Postal Code..."
+#~ msgstr "Ville, code postal…"
+
+#~ msgid "Plans"
+#~ msgstr "Plans"
+
+#~ msgid "Search a Plan"
+#~ msgstr "Rechercher un plan"
+
+#~ msgid "All plans"
+#~ msgstr "Tous les plans"
+
+#~ msgid "No plan found."
+#~ msgstr "Aucun plan trouvé."
+
+#~ msgid "No plan found in trash."
+#~ msgstr "Aucun plan trouvé dans la corbeille."
+
+#~ msgid "To receive the selected documents, please complete the fields below."
+#~ msgstr ""
+#~ "Pour recevoir les documents sélectionnés, veuillez remplir les champs ci-"
+#~ "dessous."
+
+#~ msgid ""
+#~ "A link will be sent to the address provided, please note that all fields "
+#~ "are mandatory."
+#~ msgstr ""
+#~ "Un lien sera envoyé à l’adresse fournie, veuillez noter que tous les "
+#~ "champs sont obligatoires."
+
+#~ msgid "Download Applicable Law Guide"
+#~ msgstr "Télécharger le guide des Lois Applicable"
+
+#~ msgid "Error! Message was not sent! Please contact us by phone. catch"
+#~ msgstr ""
+#~ "Erreur ! Le message n'a pas été envoyé ! Veuillez nous contacter par "
+#~ "téléphone."
+
+#, fuzzy
+#~| msgid "Error! Message was not sent! Please contact us by phone."
+#~ msgid "Error! Message was not sent! Please contact us by phone.empty"
+#~ msgstr ""
+#~ "Erreur ! Le message n'a pas été envoyé ! Veuillez nous contacter par "
+#~ "téléphone."
+
+#~ msgid "approval"
+#~ msgstr "agrément"
+
+#~ msgid "Home Sections"
+#~ msgstr "Sections d’accueil"
+
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgid "Brand Logo"
+#~ msgstr "Logo de la marque"
+
+#~ msgid "Brand Title"
+#~ msgstr "Titre de la marque"
+
+#~ msgid "Brand Title Tag"
+#~ msgstr "Balise de titre de marque"
+
+#~ msgid "Brand Description"
+#~ msgstr "Description"
+
+#~ msgid "Video Cover"
+#~ msgstr "Couverture vidéo"
+
+#~ msgid "Alt Title Tag"
+#~ msgstr "Balise de titre alternative"
+
+#~ msgid "Person"
+#~ msgstr "Personne"
+
+#~ msgid "Person Name"
+#~ msgstr "Nom de la personne"
+
+#~ msgid "Person Job"
+#~ msgstr "Emploi de la personne"
+
+#~ msgid "Person Description"
+#~ msgstr "Description de la personne"
+
+#~ msgid "Bottom Action"
+#~ msgstr "Action du bouton"
+
+#~ msgid "Jobs"
+#~ msgstr "Offre d’emploi"
+
+#~ msgid "News"
+#~ msgstr "Actualités"
+
+#~ msgid "Right Top Image"
+#~ msgstr "Image supérieure droite"
+
+#~ msgid "Right Bottom Image"
+#~ msgstr "Image en bas à droite"
+
+#~ msgid "Background Image"
+#~ msgstr "Image de fond"
+
+#~ msgid "Left Title Tag"
+#~ msgstr "Balise de titre gauche"
+
+#~ msgid "Left Action"
+#~ msgstr "Action gauche"
+
+#~ msgid "Right Title Tag"
+#~ msgstr "Balise de titre droit"
+
+#~ msgid "Right Action"
+#~ msgstr "Action de droite"
+
+#~ msgid "Our Successes"
+#~ msgstr "Nos succès"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Catégories les plus utilisées"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#~ msgid "Nav Menu"
+#~ msgstr "Menu de navigation"
+
+#~ msgid "Default Menu"
+#~ msgstr "Menu par défaut"
+
+#~ msgid "Please enter your status."
+#~ msgstr "Veuillez saisir votre statut."
+
+#~ msgid "Do you want more explanations or clarifications ?"
+#~ msgstr "Vous souhaitez plus d’explications ou des précisions ?"
+
+#~ msgid "Let's meet up !"
+#~ msgstr "Rencontrons-nous !"
+
+#~ msgid "Prepare your"
+#~ msgstr "Préparer votre"
+
+#~ msgid "Labels"
+#~ msgstr "Labels"
+
+#~ msgid "Your projects"
+#~ msgstr "Vos projets"
+
+#~ msgid "Project"
+#~ msgstr "Projet"
+
+#~ msgctxt "slug"
+#~ msgid "projects"
+#~ msgstr "projets"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgid "GDPR phrase contact"
+#~ msgstr "Phrase de contact RGPD"
+
+#~ msgid "GDPR phrase call request"
+#~ msgstr "Phrase de demande rappel RGPD"
+
+#~ msgid "newsletter"
+#~ msgstr "newsletter"
+
+#~ msgctxt "feminine"
+#~ msgid "All"
+#~ msgstr "Toutes"
+
+#, fuzzy
+#~| msgid "Please enter a valid email address."
+#~ msgid "Please provide your address."
+#~ msgstr "S’il vous plaît, mettez une adresse email valide."
+
+#, fuzzy
+#~| msgid "Please enter your status."
+#~ msgid "Please provide your postal code."
+#~ msgstr "Veuillez saisir votre statut."
+
+#, fuzzy
+#~| msgid "Left Action"
+#~ msgid "function"
+#~ msgstr "Action gauche"
+
+#~ msgid "Slider Archives"
+#~ msgstr "Archives des spiders"
+
+#~ msgid "Slider Attributes"
+#~ msgstr "Attributs du spider"
+
+#~ msgid "Parent Slider:"
+#~ msgstr "Parent :"
+
+#~ msgid "All Sliders"
+#~ msgstr "Tous les spiders"
+
+#~ msgid "Add New Slider"
+#~ msgstr "Ajoutez un nouveau spider"
+
+#~ msgid "New Slider"
+#~ msgstr "Nouveau spider"
+
+#~ msgid "Edit Slider"
+#~ msgstr "Modifier le slider"
+
+#~ msgid "Update Slider"
+#~ msgstr "Mettre à jour le slider"
+
+#~ msgid "View Slider"
+#~ msgstr "Voir le slider"
+
+#~ msgid "Search Slider"
+#~ msgstr "Rechercher un slider"
+
+#~ msgid "Featured Image"
+#~ msgstr "Image à la une"
+
+#~ msgid "Set featured image"
+#~ msgstr "Définir l’image à la une"
+
+#~ msgid "Remove featured image"
+#~ msgstr "Supprimer l’image à la une"
+
+#~ msgid "Use as featured image"
+#~ msgstr "Utiliser comme image à la une"
+
+#~ msgid "Insert into Slider"
+#~ msgstr "Insérer dans le slider"
+
+#~ msgid "Uploaded to this Slider"
+#~ msgstr "Téléchargé sur ce slider"
+
+#~ msgid "Sliders list"
+#~ msgstr "List des slider"
+
+#~ msgid "Sliders list navigation"
+#~ msgstr "Navigation dans la liste des spiders"
+
+#~ msgid "Filter Sliders list"
+#~ msgstr "Filtre la list des spiders"
+
+#, fuzzy
+#~ msgid "Parent Job:"
+#~ msgstr "Offre d’emploi parente :"
+
+#, fuzzy
+#~ msgid "All Jobs"
+#~ msgstr "Offre d’emploi"
+
+#, fuzzy
+#~ msgid "Add New Job"
+#~ msgstr "Ajouter une offre d’emploi"
+
+#, fuzzy
+#~ msgid "Edit Job"
+#~ msgstr "Modifier l’offre d’emploi"
+
+#, fuzzy
+#~ msgid "View Job"
+#~ msgstr "Emploi"
+
+#, fuzzy
+#~ msgid "View Jobs"
+#~ msgstr "Offre d’emploi"
+
+#, fuzzy
+#~ msgid "Search Job"
+#~ msgstr "Rechercher une offre d’emploi"
+
+#, fuzzy
+#~ msgid "Insert into Job"
+#~ msgstr "Insérer dans le slider"
+
+#, fuzzy
+#~ msgid "Uploaded to this Job"
+#~ msgstr "Téléchargé sur ce slider"
+
+#, fuzzy
+#~ msgid "Jobs list"
+#~ msgstr "Offre d’emploi"
+
+#, fuzzy
+#~ msgid "Filter Jobs list"
+#~ msgstr "Filtre la list des spiders"
+
+#~ msgid "Partner Attributes"
+#~ msgstr "Attributs du partenaire"
+
+#~ msgid "Parent Partner:"
+#~ msgstr "Parent partenaire:"
+
+#~ msgid "New Partner"
+#~ msgstr "Nouveau partenaire"
+
+#~ msgid "Edit Partner"
+#~ msgstr "Modifier un partenaire"
+
+#~ msgid "View Partner"
+#~ msgstr "Voir le partenaire"
+
+#~ msgid "Uploaded to this Partner"
+#~ msgstr "Téléchargé sur ce partenaire"
+
+#~ msgid "Partners list navigation"
+#~ msgstr "Navigation dans la liste ds partenaires"
+
+#~ msgid "Filter Partners list"
+#~ msgstr "Filtrer la liste des partenaires"
+
+#, fuzzy
+#~ msgid "Figure Archives"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Figure Attributes"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Parent Figure:"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "All Figures"
+#~ msgstr "Key figures"
+
+#, fuzzy
+#~ msgid "Add New Figure"
+#~ msgstr "Ajouter"
+
+#, fuzzy
+#~ msgid "New Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Edit Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "View Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "View Figures"
+#~ msgstr "Key figures"
+
+#, fuzzy
+#~ msgid "Search Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Insert into Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Uploaded to this Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Figures list"
+#~ msgstr "Key figures"
+
+#, fuzzy
+#~ msgid "Figures list navigation"
+#~ msgstr "Navigation dans la liste des spiders"
+
+#, fuzzy
+#~ msgid "Filter Figures list"
+#~ msgstr "Filtre la list des spiders"
+
+#, fuzzy
+#~ msgid "Figure"
+#~ msgstr "Champs de la figure"
+
+#, fuzzy
+#~ msgid "Approval Archives"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Approval Attributes"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Parent Approval:"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Add New Approval"
+#~ msgstr "Ajouter"
+
+#, fuzzy
+#~ msgid "New Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Edit Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Update Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "View Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Search Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Insert into Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Uploaded to this Approval"
+#~ msgstr "Champs d’approbation"
+
+#, fuzzy
+#~ msgid "Approvals list navigation"
+#~ msgstr "Navigation dans la liste ds partenaires"
+
+#, fuzzy
+#~ msgid "Filter Approvals list"
+#~ msgstr "Filtrer la liste des partenaires"
+
+#~ msgid "Previous:"
+#~ msgstr "Précédent:"
+
+#~ msgid "Next:"
+#~ msgstr "Suivant:"

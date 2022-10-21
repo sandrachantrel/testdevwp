@@ -1,0 +1,125 @@
+[20-Oct-2022 15:58:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/Deniz/Local Sites/testdev/app/public/wp-includes/update.php on line 410
+[20-Oct-2022 15:58:49 UTC] PHP Stack trace:
+[20-Oct-2022 15:58:49 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/update-core.php:0
+[20-Oct-2022 15:58:49 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/update-core.php:10
+[20-Oct-2022 15:58:49 UTC] PHP   3. do_action() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin.php:385
+[20-Oct-2022 15:58:49 UTC] PHP   4. WP_Hook->do_action() /Users/Deniz/Local Sites/testdev/app/public/wp-includes/plugin.php:476
+[20-Oct-2022 15:58:49 UTC] PHP   5. WP_Hook->apply_filters() /Users/Deniz/Local Sites/testdev/app/public/wp-includes/class-wp-hook.php:331
+[20-Oct-2022 15:58:49 UTC] PHP   6. wp_update_plugins() /Users/Deniz/Local Sites/testdev/app/public/wp-includes/class-wp-hook.php:307
+[20-Oct-2022 15:58:49 UTC] PHP   7. trigger_error() /Users/Deniz/Local Sites/testdev/app/public/wp-includes/update.php:410
+[21-Oct-2022 07:37:32 UTC] PHP Warning:  require(/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php): failed to open stream: No such file or directory in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:37:32 UTC] PHP Stack trace:
+[21-Oct-2022 07:37:32 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:37:32 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:37:32 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:37:32 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:37:32 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:37:32 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:37:32 UTC] PHP Fatal error:  require(): Failed opening required '/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:37:32 UTC] PHP Stack trace:
+[21-Oct-2022 07:37:32 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:37:32 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:37:32 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:37:32 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:37:32 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:37:32 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:32 UTC] PHP Warning:  require(/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php): failed to open stream: No such file or directory in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:32 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:32 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:39:32 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:39:32 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:32 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:32 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:32 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:32 UTC] PHP Fatal error:  require(): Failed opening required '/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:32 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:32 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:39:32 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:39:32 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:32 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:32 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:32 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:45 UTC] PHP Warning:  require(/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php): failed to open stream: No such file or directory in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:45 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:45 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:39:45 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:39:45 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:46 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:46 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:46 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:46 UTC] PHP Fatal error:  require(): Failed opening required '/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:46 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:46 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 07:39:46 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 07:39:46 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:46 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:46 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:46 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:47 UTC] PHP Warning:  require(/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php): failed to open stream: No such file or directory in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:47 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:47 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:0
+[21-Oct-2022 07:39:47 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:12
+[21-Oct-2022 07:39:47 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin.php:34
+[21-Oct-2022 07:39:47 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:47 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:47 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:47 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:47 UTC] PHP Fatal error:  require(): Failed opening required '/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:47 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:47 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:0
+[21-Oct-2022 07:39:47 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:12
+[21-Oct-2022 07:39:47 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin.php:34
+[21-Oct-2022 07:39:47 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:47 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:47 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:47 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:47 UTC] PHP Warning:  require(/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php): failed to open stream: No such file or directory in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:47 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:47 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/index.php:0
+[21-Oct-2022 07:39:47 UTC] PHP   2. require() /Users/Deniz/Local Sites/testdev/app/public/index.php:17
+[21-Oct-2022 07:39:47 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-blog-header.php:13
+[21-Oct-2022 07:39:47 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:47 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:48 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:48 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:39:48 UTC] PHP Fatal error:  require(): Failed opening required '/Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-quot/register.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/init.php on line 34
+[21-Oct-2022 07:39:48 UTC] PHP Stack trace:
+[21-Oct-2022 07:39:48 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/index.php:0
+[21-Oct-2022 07:39:48 UTC] PHP   2. require() /Users/Deniz/Local Sites/testdev/app/public/index.php:17
+[21-Oct-2022 07:39:48 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-blog-header.php:13
+[21-Oct-2022 07:39:48 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 07:39:48 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 07:39:48 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 07:39:48 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 07:53:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/template-home.php on line 54
+[21-Oct-2022 07:53:27 UTC] PHP Stack trace:
+[21-Oct-2022 07:53:27 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/index.php:0
+[21-Oct-2022 07:53:27 UTC] PHP   2. require() /Users/Deniz/Local Sites/testdev/app/public/index.php:17
+[21-Oct-2022 07:53:27 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-blog-header.php:19
+[21-Oct-2022 07:53:27 UTC] PHP   4. include() /Users/Deniz/Local Sites/testdev/app/public/wp-includes/template-loader.php:106
+[21-Oct-2022 09:56:21 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-text-image/register.php on line 20
+[21-Oct-2022 09:56:21 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-text-image/register.php on line 20
+[21-Oct-2022 09:56:21 UTC] PHP Stack trace:
+[21-Oct-2022 09:56:21 UTC] PHP Stack trace:
+[21-Oct-2022 09:56:21 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:0
+[21-Oct-2022 09:56:21 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:0
+[21-Oct-2022 09:56:21 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/post.php:12
+[21-Oct-2022 09:56:21 UTC] PHP   2. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin-ajax.php:22
+[21-Oct-2022 09:56:21 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-admin/admin.php:34
+[21-Oct-2022 09:56:21 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 09:56:21 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 09:56:21 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 09:56:21 UTC] PHP   5. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 09:56:21 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 09:56:21 UTC] PHP   6. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 09:56:21 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 09:56:21 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172
+[21-Oct-2022 09:56:21 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/inc/gutenberg-blocks/block-text-image/register.php on line 20
+[21-Oct-2022 09:56:21 UTC] PHP Stack trace:
+[21-Oct-2022 09:56:21 UTC] PHP   1. {main}() /Users/Deniz/Local Sites/testdev/app/public/index.php:0
+[21-Oct-2022 09:56:21 UTC] PHP   2. require() /Users/Deniz/Local Sites/testdev/app/public/index.php:17
+[21-Oct-2022 09:56:21 UTC] PHP   3. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-blog-header.php:13
+[21-Oct-2022 09:56:21 UTC] PHP   4. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-load.php:50
+[21-Oct-2022 09:56:21 UTC] PHP   5. require_once() /Users/Deniz/Local Sites/testdev/app/public/wp-config.php:96
+[21-Oct-2022 09:56:21 UTC] PHP   6. include() /Users/Deniz/Local Sites/testdev/app/public/wp-settings.php:566
+[21-Oct-2022 09:56:21 UTC] PHP   7. require() /Users/Deniz/Local Sites/testdev/app/public/wp-content/themes/testdevwp/functions.php:172

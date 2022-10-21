@@ -1,0 +1,207 @@
+/*
+Theme Name: Testdevwp
+Author: sandra
+Description: Theme developpe pour le test
+Version: 1.0
+*/
+
+/* HEADER */
+
+.header-container{
+    background-image: url("assets/shutterstock_1535402432.png");
+    padding-top: 100px;
+    height: 261px;
+}
+
+/* BODY */
+
+.main-container {
+    font-family: Montserrat;
+}
+
+.h1-home {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: #080D0D;
+}
+
+.services-container {
+    margin-top: 108px;
+}
+.services-container article a,.services-container article p{
+    color: white;
+    text-decoration: none;
+}
+
+.services-container article p {
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.services-container article > a {
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 31px;
+    padding-left: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+    background-color: #4AB7CD;
+    display: block;
+    height: 255px;
+}
+
+.services-container article:nth-child(2) > a{
+    background-color: #FFCE00;
+}
+
+.services-container article:nth-child(3) > a{
+    background-color: #7DA44A;
+}
+
+.services-container article:nth-child(4) > a{
+    background-color: #080D0D;
+}
+
+.services-container article:nth-child(5) > a{
+    background-color: #FF0000;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    height: 280px;
+    font-size: 28px;
+}
+
+.footer-text {
+    padding-top: 50px;
+}
+
+.contact-link {
+    text-decoration: underline;
+    color: white;
+}
+
+/* MESSAGE DISPLAY
+
+#content .content-text {
+    color: black;
+    margin-top: 50px;
+}
+
+#content .content-text em {
+    font-weight: bold;
+} */
+
+/* PAGE SERVICE */
+
+.header-container-services{
+    background-color: #4AB7CD;
+    padding-top: 100px;
+    height: 261px;
+}
+
+.container-single-service {
+    font-family: Montserrat;
+}
+
+.service-title {
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.service-type, .service-type a {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #4AB7CD;
+    text-decoration: none;
+}
+
+.container-single-service .d-flex{
+    margin-top: 30px;
+}
+
+.container-single-service .flex-grow-1 {
+    padding-left: 14px;
+}
+
+.service-prix {
+    margin-top: 50px;
+    font-size: 32px;
+    font-style: normal;
+    color: black;
+}
+
+/* Bloc ACF */
+
+.testdevwp-bloc-acf {
+    margin-top: 100px;
+    background-color: #F5F5F5;
+}
+
+.testdevwp-bloc-acf-texte, .testdevwp-bloc-acf-auteur {
+    margin-left: 95px;
+    margin-right: 95px;
+}
+
+.testdevwp-bloc-acf-texte {
+    margin-top: 32px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.testdevwp-bloc-acf-auteur {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* THANK YOU PAGE */
+
+.thankyou-wrapper{
+    width:100%;
+    height:auto;
+    margin:auto;
+    background:#ffffff;
+    padding:10px 0px 50px;
+}
+.thankyou-wrapper h1{
+    font:100px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#333333;
+    padding:0px 10px 10px;
+}
+.thankyou-wrapper p{
+    font:26px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#333333;
+    padding:5px 10px 10px;
+}
+.thankyou-wrapper a{
+    font:26px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#ffffff;
+    display:block;
+    text-decoration:none;
+    width:250px;
+    background:black;
+    margin:10px auto 0px;
+    padding:15px 20px 15px;
+    border-bottom:5px solid black;
+}
+.thankyou-wrapper a:hover{
+    font:26px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#ffffff;
+    display:block;
+    text-decoration:none;
+    width:250px;
+    background:black;
+    margin:10px auto 0px;
+    padding:15px 20px 15px;
+    border-bottom:5px solid black;
+}
